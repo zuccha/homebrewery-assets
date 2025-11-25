@@ -6,7 +6,7 @@ Adventurers! Explore the Sunbathed Cave, in search of the rare and valued _star 
 
 Written by **zuccha**, version 1.0 (2025-11-19).<br>
 Created with [Homebrewery](https://homebrewery.naturalcrit.com).<br>
-Maps created with [Dungeondraft](https://dungeondraft.net).
+Map created with [Dungeon Scrawl](https://www.dungeonscrawl.com).
 
 * **System:** D&D 5e (2024)
 * **Players:** 4–5 characters
@@ -68,7 +68,7 @@ This is a short, location-based adventure with a light puzzle element and severa
 \page
 
 
-<img src='https://raw.githubusercontent.com/zuccha/homebrewery-assets/main/Maps/Sunbathed%20Cave%20(EN).png' class="wide" style='width: 100%; display: block;' />
+<img src='https://raw.githubusercontent.com/zuccha/homebrewery-assets/main/Sunbathed%20Cave/Maps/Sunbathed%20Cave%20(EN).png' class="wide" style='width: 100%; display: block;' />
 
 ## Exploring the Cave
 
@@ -110,7 +110,7 @@ Footprints of varying age mark the ground near the entrance, showing regular mov
 ### 2: Cul-de-Sac
 
 {{descriptive
-A large, straight tunnel, 5 meters tall, leads deeper within the cave. The dim light from the entrance fades as the passage descends. At the far end lies a dead end, marked only by a sharp, acrid smell.
+A large, straight tunnel, 5 meters tall, leads deeper within the cave. The dim light from the entrance fades as the passage descends. Close by lies a dead end, marked only by a sharp, acrid smell.
 }}
 
 This tunnel is the route the ogres prefer, comfortably accommodating their size. Berto often stops to urinate here. A character who succeeds on a DC 15 Intelligence (Nature) check identifies the smell as urine; on a 20 or higher, the character recognizes it as ogre urine.
@@ -218,7 +218,7 @@ A moldy smell hangs in the air, and a soft veil of spores drifts through the cha
 
 This is where the myconids reside when they are not preparing offerings in the northeast room. The myconid sovereign never leaves this chamber, and its filaments extend deep into the ground and through the cave, keeping it confined to this room. Through the hyphae, the sovereign senses disturbances such as movement, bright light, or violence elsewhere in the cave, but it cannot perceive details or communicate at a distance.
 
-The west wall features several openings that connect to the rust monsters’ colony. From here, the sovereign releases calming spores that lure rust monsters into the pantry to be killed and butchered for the ogres.
+The west wall features several openings that connect to the rust monsters’ colony. From here, the sovereign releases calming spores that lure rust monsters to be killed and butchered for the ogres.
 
 The south wall contains several windows that open to the outside. These windows are sealed on the inside by fungal filaments, and the wooden shutters can be forced open with a DC 14 Strength check. From the outside, the windows are buried under rubble; a DC 15 Intelligence (Investigation) or Wisdom (Perception) check reveals the blocked openings, and clearing the rubble takes a few minutes of work. If the players begin applying force to the shutters from the outside, the sovereign sends a telepathic plea urging them to leave. The players experience the mental message, but they do not know its source unless they have already met the sovereign or observed its behavior in another room. Opening the shutters exposes the chamber to sunlight, which burns the myconid sovereign, and its filaments prevent it from leaving the room.
 
@@ -264,6 +264,6 @@ Soft spores produced by myconids to communicate. Two creatures can inhale the sp
 **Components:**   :: S, V
 **Duration:**     :: 5 minutes
 
-For the duration, sunlight spreads from a point within range and fills a 20-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 20 feet.
+For the duration, sunlight spreads from a point within range and fills a 6-meters-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 6 meters.
 
 {{pageNumber 5}}
