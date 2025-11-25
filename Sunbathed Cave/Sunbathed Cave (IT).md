@@ -4,7 +4,7 @@ Avventurieri! Esplorate la Grotta Solare, alla ricerca del raro e prezioso _musc
 
 ## Informazioni
 
-Scritto da **zuccha**, versione 1.0 (2025-11-19).
+Scritto da **zuccha**, versione 1.0 (2025-11-25).
 Creato con [Homebrewery](https://homebrewery.naturalcrit.com).
 Mappa creata con [Dungeon Scrawl](https://www.dungeonscrawl.com).
 
@@ -79,7 +79,7 @@ Gli avventurieri devono esplorare la grotta per recuperare quanto più _muschio 
 
 I giocatori possono utilizzare uno qualsiasi dei metodi menzionati sopra, oppure trovare soluzioni alternative. Tuttavia, la pianta deve ricevere almeno tre minuti di luce solare diretta; le normali fonti luminose (come torce o l'incantesimo _Luce Diurna_) non sono sufficienti.
 
-**Luce nella Grotta.** A meno che non sia indicato diversamente, gran parte della grotta è in luce fioca. I miconoidi diventano ostili se esposti a luce intensa, mentre gli altri abitanti si limitano a esserne infastiditi.
+**Luce nella grotta.** A meno che non sia indicato diversamente, gran parte della grotta è in luce fioca. I miconoidi diventano ostili se esposti a luce intensa, mentre gli altri abitanti si limitano a esserne infastiditi.
 
 **Riposo.** La grotta è pericolosa ma non pattugliata. Un riposo breve è generalmente sicuro nelle stanze liberate; un riposo lungo può attirare rugginofaghi erranti, a discrezione del GM.
 
@@ -128,11 +128,11 @@ Il tunnel è largo solo 1,5 metri e alto 2,5 metri. Due ragni lupo giganti hanno
 
 **Individuazione.** Un personaggio che supera una prova di Saggezza (Percezione) con CD 12 nota uno dei ragni. Con un 15 o più, li individua entrambi; con un 20 o più, nota anche l’avventuriero morto e la pergamena.
 
-**Attraversare le Ragnatele.** Muoversi attraverso le ragnatele richiede una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15, da ripetere ogni turno di movimento. In caso di fallimento, il personaggio è Trattenuto e deve superare un tiro salvezza su Forza con CD 12 alla fine del suo turno per liberarsi.
+**Attraversare le ragnatele.** Muoversi attraverso le ragnatele richiede una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15, da ripetere ogni turno di movimento. In caso di fallimento, il personaggio è Trattenuto e deve superare un tiro salvezza su Forza con CD 12 alla fine del suo turno per liberarsi.
 
-**Combattere i Ragni.** Qualsiasi intrusione nel tunnel o azione che danneggi le ragnatele provoca l’attacco dei ragni. Un personaggio che tenta di attraversare il passaggio di nascosto deve effettuare una prova di Destrezza (Furtività) contrapposta alla Percezione dei ragni ogni volta che si muove.
+**Combattere i ragni.** Qualsiasi intrusione nel tunnel o azione che danneggi le ragnatele provoca l’attacco dei ragni. Un personaggio che tenta di attraversare il passaggio di nascosto deve effettuare una prova di Destrezza (Furtività) contrapposta alla Percezione dei ragni ogni volta che si muove.
 
-**Bruciare le Ragnatele.** Le ragnatele sono altamente infiammabili. Se incendiate, le fiamme si propagano in tutto il passaggio e bruciano per 1 minuto. Qualsiasi creatura sorpresa dal fuoco è in fiamme. I ragni usano immediatamente tutto il loro movimento per fuggire. Una volta che le fiamme si spengono, le ragnatele sono distrutte e la pergamena è ridotta in cenere.
+**Bruciare le ragnatele.** Le ragnatele sono altamente infiammabili. Se incendiate, le fiamme si propagano in tutto il passaggio e bruciano per 1 minuto. Una creatura all'interno del fuoco è in fiamme e i ragni usano il loro movimento per fuggire. Quando le fiamme si spengono, tutte le ragnatele e la pergamena sono ridotte in cenere.
 
 ### 4: Crocevia
 
@@ -140,10 +140,10 @@ Il tunnel è largo solo 1,5 metri e alto 2,5 metri. Due ragni lupo giganti hanno
 Una grande camera aperta si estende davanti a voi. Un pilastro roccioso sale fino al soffitto, dove incontra un gruppo di stalattiti che incombono minacciose. Pozze d'acqua punteggiano il pavimento, formate dalle gocce che cadono costantemente dalle formazioni minerali. La stanza contiene alcune casse di legno vuote e un piccolo tavolo ricavato nella parete. In passato, questa camera veniva probabilmente usata per raccogliere e smistare il muschio.
 }}
 
-Le casse non contengono nulla di valore, ormai marcite. Sul tavolo giace una pila di documenti rovinati, quasi tutti illeggibili, ma una nota sopravvissuta descrive le istruzioni per esporre il muschio alla luce solare, come segue:
+Le casse, ormai marce, non contengono nulla di valore. Sul tavolo giace una pila di documenti rovinati, quasi tutti illeggibili, ma una nota sopravvissuta descrive le istruzioni per esporre il muschio alla luce solare, come segue:
 
 {{descriptive
-##### Istruzioni per la Raccolta del Muschio Stella
+##### Istruzioni per la Raccolta del Muschio
 Per attivare le sue proprietà medicinali, il muschio stella deve essere esposto alla luce solare per alcuni minuti prima della raccolta. Ogni camera dove la pianta cresce in grandi quantità utilizza un metodo diverso per ricevere tale luce:
 * Stanza nord-est: Un sistema di quattro specchi riflette la luce dall’ingresso fino alla camera. Gli specchi devono essere allineati correttamente.
 * Stanza nord: Questa camera è troppo profonda perché la luce naturale possa raggiungerla, quindi è necessaria una fonte di luce magica. Le pergamene contenenti un incantesimo di luce solare sono riposte nel ripostiglio nel corridoio nord-ovest.
@@ -154,7 +154,7 @@ Per attivare le sue proprietà medicinali, il muschio stella deve essere esposto
 
 Il corridoio è inizialmente bloccato da un cumulo di rocce crollate, individuabile con una prova di Saggezza (Percezione) con CD 10. Liberare l’ostruzione richiede circa 5 minuti e rivela il passaggio verso il ripostiglio.
 
-La porta del ripostiglio è chiusa da una serratura arrugginita, che può essere aperta con una prova di Destrezza (Rapidità di Mano) con CD 15 usando strumenti da scasso, oppure può essere sfondata con un attacco.
+La porta del ripostiglio è chiusa da una serratura arrugginita, che può essere aperta con una prova di Destrezza (Rapidità di Mano) con CD 15 usando arnesi da scasso, oppure sfondata con un attacco.
 
 Il ripostiglio contiene tre _torce_ e una _pergamena magica_ contenente _Luce Solare_. Sono presenti altre due pergamene troppo danneggiate per essere utilizzate; tuttavia, se viene lanciato _Riparare_, le pergamene tornano alla loro forma originale. Sono vuote e possono essere usate per trascrivere un trucchetto o un incantesimo di 1° livello, coprendo il normale costo di trascrizione pari a 25 mo ciascuna.
 
@@ -191,7 +191,7 @@ La camera a nord non è visibile dal crocevia; i giocatori devono prima scendere
 Una vasta camera quasi circolare si apre davanti a voi. Le pareti sono ricoperte di muschio stella, e sul lato destro si trova una limpida pozza d’acqua. In fondo alla sala è ammassata una piccola collezione di tesori. Due ogre dormono su rozzi giacigli.
 }}
 
-Gli ogre sono ostili verso gli intrusi, ma possono essere corrotti con una quantità sufficiente di carne di qualsiasi tipo, purché i giocatori non stiano portando luce intensa e possano comunicare con loro.
+Gli ogre sono ostili verso gli intrusi, ma possono essere corrotti con una quantità sufficiente di carne, purché i giocatori possano comunicare con loro.
 
 **Combattere gli ogre.** Berto è un **ogre** e Cambero è un **ogre ogrillon**. Sono affamati e attaccano il bersaglio più “appetitoso”. Una volta per combattimento, Berto può usare la sua Reazione per colpire il pavimento con la clava, facendo crollare alcune stalattiti al centro della stanza. Tutte le creature nel raggio di 3 metri devono superare un tiro salvezza su Destrezza con CD 15 o subire 1d6 danni perforanti e 1d6 danni contundenti, o la metà dei danni in caso di successo.
 

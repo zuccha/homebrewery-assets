@@ -4,7 +4,7 @@ Adventurers! Explore the Sunbathed Cave, in search of the rare and valued _star 
 
 ## Adventure Info
 
-Written by **zuccha**, version 1.0 (2025-11-19).<br>
+Written by **zuccha**, version 1.0 (2025-11-25).<br>
 Created with [Homebrewery](https://homebrewery.naturalcrit.com).<br>
 Map created with [Dungeon Scrawl](https://www.dungeonscrawl.com).
 
