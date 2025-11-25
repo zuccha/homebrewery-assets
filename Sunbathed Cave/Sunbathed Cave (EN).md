@@ -60,7 +60,7 @@ A colony of rust monsters thrives deep underground. When their tunnels broke int
 
 ## Running the Adventure
 
-This is a short, location-based adventure with a light puzzle element and several optional combats. The cave’s factions react logically to light, noise, and intrusion, but do not coordinate. Players can approach the rooms in any order, with sunlight-activation as the only required mechanic. Most encounters can be bypassed with smart play or negotiation.
+This is a short, location-based adventure with a light puzzle element and several optional combats. The cave’s factions react logically to light, noise, and intrusion, but do not coordinate. Characters can approach the rooms in any order, with sunlight-activation as the only required mechanic. Most encounters can be bypassed with smart play or negotiation.
 
 **How to Use This Guide.** Text inside blue descriptive frames is meant to be read aloud to the players. Creature names in bold refer to stat blocks found in the _Monster Manual_. Items and spells in italics refer to entries in the _Player’s Handbook_ or are described in the “Spells and Items” section at the end of this document.
 
@@ -80,7 +80,7 @@ The adventurers must explore the cave to retrieve as much _star musk_ as possibl
 * **North room (7):** Requires magical sunlight; _Sunlight_ scrolls are available in areas 3 and 5.
 * **Southwest room (8):** Requires clearing rubble and opening shutters on the south wall.
 
-Players can use any of the methods mentioned above to expose the musk to sunlight, or they may devise their own solutions. However, the plant must receive at least three minutes of direct sunlight; ordinary light sources (such as torches or the _Daylight_ spell) aren’t sufficient.
+Characters can use any of the methods mentioned above to expose the musk to sunlight, or they may devise their own solutions. However, the plant must receive at least three minutes of direct sunlight; ordinary light sources (such as torches or the _Daylight_ spell) aren’t sufficient.
 
 **Light in the Cave.** Unless noted otherwise, most of the cave is in dim light. The myconids are wary of any bright light and become hostile when exposed to it, while the cave’s other inhabitants simply react with irritation.
 
@@ -155,7 +155,7 @@ To activate its medicinal properties, star musk must be exposed to sunlight for 
 * Southwest room: Windows carved into the southern wall allow direct sunlight inside. Remember to close the shutters afterward, because too much light prevents the musk from growing.
 }}
 
-If they inspect the desk area, the players can find the storage closet key under the table with a successful DC 15 Intelligence (Investigation) check. The key has a label attached.
+If they inspect the desk area, the characters can find the storage closet key under the table with a successful DC 15 Intelligence (Investigation) check. The key has a label attached.
 
 ### 5: Storage Closet Corridor
 
@@ -177,13 +177,13 @@ The closet door is secured with a rusty lock, which can be opened with a success
 An open chamber with a high ceiling, its walls covered in thick growths of star musk. Four myconids work methodically, shelling and dismembering dead rust monsters and tossing the remains onto an already substantial pile, creating what can only be described as a grotesque pantry.
 }}
 
-This chamber is where the myconids prepare their offerings for the ogres. Four **myconid adults** are focused on their work and pay little attention to the entrance. The players can choose to ambush them or attempt to establish communication.
+This chamber is where the myconids prepare their offerings for the ogres. Four **myconid adults** are focused on their work and pay little attention to the entrance. The characters can choose to ambush them or attempt to establish communication.
 
-At first, the myconids are wary and hostile toward humanoid intruders. If the players enter the chamber carrying lit torches or any other source of illumination, the myconids attack immediately. Otherwise, the players can attempt to communicate with them, though the myconids refuse to tolerate any form of light. Exposure to torchlight or similar brightness makes them aggressive, while direct sunlight causes them to panic and flee, as it is lethal to them. If spoken to, the myconids can reveal information about the cave and their relation with the ogres.
+At first, the myconids are wary and hostile toward humanoid intruders. If the characters enter the chamber carrying lit torches or any other source of illumination, the myconids attack immediately. Otherwise, the characters can attempt to communicate with them, though the myconids refuse to tolerate any form of light. Exposure to torchlight or similar brightness makes them aggressive, while direct sunlight causes them to panic and flee, as it is lethal to them. If spoken to, the myconids can reveal information about the cave and their relation with the ogres.
 
-**Star Musk.** The walls of the chamber are covered with _star musk_. If the players successfully place all the mirrors on their wooden brackets throughout the cave, sunlight reaches this chamber. As the light fills the space, patches of musk begin to glow and shift to a bright golden yellow. The players can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
+**Star Musk.** The walls of the chamber are covered with _star musk_. If the characters successfully place all the mirrors on their wooden brackets throughout the cave, sunlight reaches this chamber. As the light fills the space, patches of musk begin to glow and shift to a bright golden yellow. The characters can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
 
-**Treasure.** A _mirror_ worth 5 gp lies partially buried beneath the pile of rust monster carcasses. Any player who inspects the pile finds it automatically. A player who succeeds on a DC 13 Wisdom (Perception) check can spot a glint of glass beneath the remains without approaching. Additionally, a character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_.
+**Treasure.** A _mirror_ worth 5 gp lies partially buried beneath the pile of rust monster carcasses. Any character who inspects the pile finds it automatically. A character who succeeds on a DC 13 Wisdom (Perception) check can spot a glint of glass beneath the remains without approaching. Additionally, a character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_.
 
 ### 7: Ogres' Lair
 
@@ -191,25 +191,25 @@ At first, the myconids are wary and hostile toward humanoid intruders. If the pl
 A large passage descends into the earth along a steep path of uneven rocky steps. The dim light around the party fades, and only darkness awaits ahead.
 }}
 
-The north chamber is not visible from the crossways. The players must first descend a steep tunnel to reach the ogres’ lair. If the players enter the chamber, they must succeed on a DC 10 Dexterity (Stealth) check or the sleeping ogres wake up. The DC increases by 5 for each of the following or similar actions the players may have performed earlier in the cave: breaking the lock on the storage closet, fighting the myconids in the pantry, burning the spiderwebs, or entering the room with a bright light source.
+The north chamber is not visible from the crossways. The characters must first descend a steep tunnel to reach the ogres’ lair. If the characters enter the chamber, they must succeed on a DC 10 Dexterity (Stealth) check or the sleeping ogres wake up. The DC increases by 5 for each of the following or similar actions the characters may have performed earlier in the cave: breaking the lock on the storage closet, fighting the myconids in the pantry, burning the spiderwebs, or entering the room with a bright light source.
 
 {{descriptive
 A vast, mostly round chamber opens before you. The walls are covered with star musk, and a clear pool of water rests along the right side. At the far end lies a mound of collected treasures. Two ogres sleep on makeshift beds.
 }}
 
-The ogres are hostile toward intruders, but can be bribed to let the players pass, share information, or remain neutral if offered enough meat. Convincing them requires a DC 20 Charisma (Persuasion) check, reduced by 1 for each dead Medium-sized creature the players offer as food. A successful check makes them indifferent and willing to trade the mirror in their possession for the meat. The ogres still refuse bright light and turn hostile if threatened or illuminated.
+The ogres are hostile toward intruders, but can be bribed to let the characters pass, share information, or remain neutral if offered enough meat. Convincing them requires a DC 20 Charisma (Persuasion) check, reduced by 1 for each dead Medium-sized creature the characters offer as food. A successful check makes them indifferent and willing to trade the mirror for the meat. The ogres still refuse bright light and turn hostile if threatened or illuminated.
 
 **Fighting the Ogres.** Berto is an **ogre**, and Cambero is an **ogrillon ogre**. They are hungry and focus on the most appealing target. Once per fight, Berto can use his Reaction to slam his club against the floor, causing stalactites to fall in the center of the chamber. All creatures within a 3-meter radius must succeed on a DC 15 Dexterity saving throw or take 1d6 piercing damage and 1d6 bludgeoning damage, taking half on a success.
 
-A player can also try to collapse the stalactites by spending an Action and succeeding on a DC 15 Strength check, provided they notice the hazard.
+A character can also try to collapse the stalactites by spending an Action and succeeding on a DC 15 Strength check, provided they notice the hazard.
 
-**Star Musk.** The walls of the chamber are covered with _star musk_. If the players manage to illuminate the chamber with sunlight, patches of star musk begin to glow and turn a bright golden yellow. The players can harvest 1 kilogram of musk after 3-5 minutes of exposure.
+**Star Musk.** The walls of the chamber are covered with _star musk_. If the characters manage to illuminate the chamber with sunlight, patches of star musk begin to glow and turn a bright golden yellow. The characters can harvest 1 kilogram of musk after 3-5 minutes of exposure.
 
-**Treasure.** The ogres have amassed a small pile of treasures in the room. A DC 15 Wisdom (Perception) check (requiring sight) reveals a _mirror_ worth 5 gp among the treasure. On a result of 20 or higher, the player also spots two _silver ingots_ worth 25 gp each. The players automatically find all the treasure if they take time to thoroughly search the room.
+**Treasure.** The ogres have amassed a small pile of treasures in the room. A DC 15 Wisdom (Perception) check (requiring sight) reveals a _mirror_ worth 5 gp among the treasure. On a result of 20 or higher, the character also spots two _silver ingots_ worth 25 gp each. The characters automatically find all the treasure if they take time to thoroughly search the room.
 
 ### 8: Myconid's Nest
 
-The pathway to the southwest room is blocked by a dense wall of fungal filaments. The barrier opens automatically in response to myconid spores, but it can also be affected by environmental forces. Pouring at least a waterskin of water onto the filaments softens them, causing the wall to retract. The fungal mass has 15 hit points, AC 10, and is vulnerable to fire and radiant damage. Reducing it to 0 hit points destroys the barrier and clears the way into the nest. A persuaded or cooperative myconid can also open the gate safely for the players.
+The pathway to the southwest room is blocked by a dense wall of fungal filaments. The barrier opens automatically in response to myconid spores, but it can also be affected by environmental forces. Pouring at least a waterskin of water onto the filaments softens them, causing the wall to retract. The fungal mass has 15 hit points, AC 10, and is vulnerable to fire and radiant damage. Reducing it to 0 hit points destroys the barrier and clears the way into the nest. A persuaded or cooperative myconid can also open the gate safely for the characters.
 
 {{descriptive
 A moldy smell hangs in the air, and a soft veil of spores drifts through the chamber. Two corpses of fallen adventurers lie scattered across the floor, surrounding a towering fungal figure whose hyphae extend from the center of the room to the surrounding walls.
@@ -225,25 +225,25 @@ This is where the myconids reside when they are not preparing offerings in the n
 
 The west wall features several openings that connect to the rust monsters’ colony. From here, the sovereign releases calming spores that lure rust monsters to be killed and butchered for the ogres.
 
-The south wall contains several windows that open to the outside. These windows are sealed on the inside by fungal filaments, and the wooden shutters can be forced open with a DC 14 Strength check. From the outside, the windows are buried under rubble; a DC 15 Intelligence (Investigation) or Wisdom (Perception) check reveals the blocked openings, and clearing the rubble takes a few minutes of work. If the players begin applying force to the shutters from the outside, the sovereign sends a telepathic plea urging them to leave. The players experience the mental message, but they do not know its source unless they have already met the sovereign or observed its behavior in another room. Opening the shutters exposes the chamber to sunlight, which burns the myconid sovereign, and its filaments prevent it from leaving the room.
+The south wall contains several windows that open to the outside. These windows are sealed on the inside by fungal filaments, and the wooden shutters can be forced open with a DC 14 Strength check. From the outside, the windows are buried under rubble; a DC 15 Intelligence (Investigation) or Wisdom (Perception) check reveals the blocked openings, and clearing the rubble takes a few minutes of work. If the characters begin applying force to the shutters from the outside, the sovereign sends a telepathic plea urging them to leave. The characters experience the mental message, but they do not know its source unless they have already met the sovereign or observed its behavior in another room. Opening the shutters exposes the chamber to sunlight, which burns the myconid sovereign, and its filaments prevent it from leaving the room.
 
-When the players enter the room, the sovereign communicates with them. Its attitude is hostile if the players tore down the fungal barrier, killed the working myconids, slew the ogres, or opened the windows, and neutral otherwise. The sovereign warns the players to leave the cave in peace.
+When the characters enter the room, the sovereign communicates with them. Its attitude is hostile if the characters tore down the fungal barrier, killed the working myconids, slew the ogres, or opened the windows, and neutral otherwise. The sovereign warns the characters to leave the cave in peace.
 
-**Fighting the sovereign.** If the players ignore the warning, the **myconid sovereign** summons two **rust monsters** from the nearby tunnels and awakens a **myconid spore servant** lying on its side, then attacks the party. Once per combat, the myconid sovereign can use its action to regrow a weakened version of the fungal barrier in the doorway. The wall is solid and forms with 5 hit points and AC 10.
+**Fighting the sovereign.** If the characters ignore the warning, the **myconid sovereign** summons two **rust monsters** from the nearby tunnels and awakens a **myconid spore servant** lying on its side, then attacks the party. Once per combat, the myconid sovereign can use its action to regrow a weakened version of the fungal barrier in the doorway. The wall is solid and forms with 5 hit points and AC 10.
 
-**Star Musk.** The walls of the chamber are covered with _star musk_. If the players open the shutters, sunlight fills the space and patches of musk begin to glow and shift to a bright golden yellow. The players can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
+**Star Musk.** The walls of the chamber are covered with _star musk_. If the characters open the shutters, sunlight fills the space and patches of musk begin to glow and shift to a bright golden yellow. The characters can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
 
-**Treasure.** A character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_. In addition, the players can collect a small amount of _myconid rapport spores_. When a player touches the spores, they feel a brief tingling at the edge of their thoughts. A player who succeeds on a DC 15 Intelligence (Nature) check identifies the residue as preserved rapport spores, enough to allow two creatures to briefly communicate telepathically.
+**Treasure.** A character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_. In addition, the characters can collect a small amount of _myconid rapport spores_. When a character touches the spores, they feel a brief tingling at the edge of their thoughts. A character who succeeds on a DC 15 Intelligence (Nature) check identifies the residue as preserved rapport spores, enough to allow two creatures to briefly communicate telepathically.
 
 ## Ending the Adventure
 
-Once the players have harvested the _star musk_ from the illuminated chambers, they can leave the Sunbathed Cave at any time. The cave’s inhabitants do not pursue them outside.
+Once the characters have harvested the _star musk_ from the illuminated chambers, they can leave the Sunbathed Cave at any time. The cave’s inhabitants do not pursue them outside.
 
 Returning the musk to the quest-giver completes the adventure. The amount of musk gathered determines how many doses of medicine can be produced or how many people can be helped, depending on the quest’s premise.
 
 ### Aftermath
 
-Depending on the players’ actions, the cave’s balance may shift:
+Depending on the characters’ actions, the cave’s balance may shift:
 - If the ogres survive: They may seek tribute from nearby settlements or try to reclaim the cave after the musk is harvested.
 - If the myconids survive: They slowly reseal the tunnels and restore darkness. They may become strange, reclusive allies or future obstacles.
 - If both factions are disrupted: Rust monsters spread unchecked through the tunnels, creating a new problem for locals.
@@ -253,7 +253,7 @@ You can extend the adventure by introducing a new threat attracted to the sunlig
 
 ### Rewards
 
-In addition to any treasure found in the cave, the players may receive further compensation depending on the quest-giver’s needs or the campaign’s tone.
+In addition to any treasure found in the cave, the characters may receive further compensation depending on the quest-giver’s needs or the campaign’s tone.
 
 ## Spells and Items
 

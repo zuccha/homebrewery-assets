@@ -59,7 +59,7 @@ Una colonia di rugginofaghi prospera nelle profondità sotterranee. Quando i lor
 
 ## Gestire l’Avventura
 
-Questa è una breve avventura basata sull’esplorazione, con un leggero elemento di enigma e alcuni combattimenti opzionali. Le fazioni della grotta reagiscono in modo logico a luce, rumore e intrusioni, ma non coordinano le loro mosse. I giocatori possono affrontare le stanze in qualsiasi ordine. Molti incontri possono essere evitati con astuzia o negoziazione.
+Questa è una breve avventura basata sull’esplorazione, con un leggero elemento di enigma e alcuni combattimenti opzionali. Le fazioni della grotta reagiscono in modo logico a luce, rumore e intrusioni, ma non coordinano le loro mosse. I personaggi possono affrontare le stanze in qualsiasi ordine. Molti incontri possono essere evitati con astuzia o negoziazione.
 
 **Come usare questa guida.** Il testo all’interno dei riquadri blu è pensato per essere letto ai giocatori. I nomi delle creature in grassetto rimandano alle statistiche presenti nel _Manuale dei Mostri_. Gli oggetti e gli incantesimi in corsivo si riferiscono alle voci del _Manuale del Giocatore_ oppure sono descritti nella sezione “Incantesimi e Oggetti” alla fine del documento.
 
@@ -79,7 +79,7 @@ Gli avventurieri devono esplorare la grotta per recuperare quanto più _muschio 
 * **Stanza nord (7):** Richiede l'uso di fonti di luce magiche; alcune pergamene di _Luce Solare_ si trovano nelle aree 3 e 5.
 * **Stanza sud-ovest (8):** Richiede la rimozione delle macerie e l’apertura delle imposte sul muro sud.
 
-I giocatori possono utilizzare uno qualsiasi dei metodi menzionati sopra per illuminare il muschio, oppure trovare soluzioni alternative. In ogni caso, la pianta deve ricevere almeno tre minuti di luce solare diretta; le normali fonti luminose (come torce o l'incantesimo _Luce Diurna_) non sono sufficienti.
+I personaggi possono utilizzare uno qualsiasi dei metodi menzionati sopra per illuminare il muschio, oppure trovare soluzioni alternative. In ogni caso, la pianta deve ricevere almeno tre minuti di luce solare diretta; le normali fonti luminose (come torce o l'incantesimo _Luce Diurna_) non sono sufficienti.
 
 **Luce nella grotta.** A meno che non sia indicato diversamente, gran parte della grotta è illuminata da luce fioca. I miconoidi diventano ostili se esposti a luce intensa, mentre gli altri abitanti si limitano a esserne infastiditi.
 
@@ -118,7 +118,7 @@ Un ampio tunnel diritto, alto 5 metri, si addentra a fondo nella grotta. La tenu
 
 Questo tunnel è il percorso preferito dagli ogre, che si muovono comodamente grazie alla sua ampiezza. Berto spesso si ferma qui per urinare. Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 identifica l’odore come urina; con 20 o più lo riconosce specificamente come urina di ogre.
 
-Uno specchio coperto da un panno è appeso alla parete del vicolo cieco, a 3 metri da terra. Un giocatore che supera una prova di Saggezza (Percezione) con CD 13 lo nota. Con un 16 o più, nota anche un supporto di legno simile, ma privo di specchio, sulla parete che guarda verso il corridoio che conduce all’atrio.
+Uno specchio coperto da un panno è appeso alla parete del vicolo cieco, a 3 metri da terra. Un personaggio che supera una prova di Saggezza (Percezione) con CD 13 lo nota. Con un 16 o più, nota anche un supporto di legno simile, ma privo di specchio, sulla parete di fronte al corridoio che conduce all’atrio.
 
 ### 3: Tunnel Infestato dai Ragni
 
@@ -154,7 +154,7 @@ Per attivare le sue proprietà medicinali, il muschio stella deve essere esposto
 * Stanza sud-ovest: Finestre scavate nella parete meridionale permettono alla luce diretta di entrare. Ricordarsi di chiudere le gelosie dopo l’uso, perché troppa luce impedisce al muschio di crescere.
 }}
 
-Ispezionando l’area del tavolo, i giocatori possono trovare la chiave del ripostiglio sotto il piano con una prova di Intelligenza (Investigare) con CD 15. La chiave ha un’etichetta attaccata.
+Ispezionando l’area del tavolo, i personaggi possono trovare la chiave del ripostiglio sotto il piano con una prova di Intelligenza (Investigare) con CD 15. La chiave ha un’etichetta attaccata.
 
 ### 5: Corridoio del Ripostiglio
 
@@ -176,13 +176,13 @@ La porta del ripostiglio è chiusa da una serratura arrugginita, che può essere
 Una camera aperta dal soffitto alto, le cui pareti sono ricoperte da fitte crescite di muschio stella. Quattro miconoidi lavorano metodicamente, sgusciando e smembrando rugginofaghi morti e gettandone i resti su una pila già consistente, creando quella che può essere descritta solo come una grottesca dispensa.
 }}
 
-Questa camera è il luogo in cui i miconoidi preparano le loro offerte per gli ogre. Quattro **miconoidi adulti** sono concentrati sul lavoro e prestano poca attenzione all’ingresso. I giocatori possono scegliere di tender loro un’imboscata oppure tentare di comunicare.
+Questa camera è il luogo in cui i miconoidi preparano le loro offerte per gli ogre. Quattro **miconoidi adulti** sono concentrati sul lavoro e prestano poca attenzione all’ingresso. I personaggi possono scegliere di tender loro un’imboscata oppure tentare di comunicare.
 
-I miconoidi sono inizialmente guardinghi e ostili nei confronti degli umanoidi. Se i giocatori entrano nella camera portando torce accese o altre fonti di luce, i miconoidi attaccano immediatamente. In caso contrario, i giocatori possono tentare di comunicare, ottenendo informazioni sulla grotta e la relazione tra i miconidi e gli ogre. La luce intensa rende i miconidi aggressivi, mentre la luce solare diretta li spinge a fuggire nel panico, poiché per loro è letale.
+I miconoidi sono inizialmente guardinghi e ostili nei confronti degli umanoidi. Se i personaggi entrano nella camera portando torce accese o altre fonti di luce, i miconoidi attaccano immediatamente. In caso contrario, i personaggi possono tentare di comunicare, ottenendo informazioni sulla grotta e la relazione tra i miconidi e gli ogre. La luce intensa rende i miconidi aggressivi, mentre la luce solare diretta li spinge a fuggire nel panico, poiché per loro è letale.
 
-**Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i giocatori collocano con successo tutti gli specchi sui supporti in legno presenti nella grotta, la luce solare raggiunge questa camera. Man mano che la luce riempie lo spazio, alcune chiazze di muschio iniziano a brillare e a cambiare verso un giallo dorato. Dopo 3–5 minuti di esposizione, i giocatori possono raccoglierne 0,5 chilogrammi.
+**Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi collocano con successo tutti gli specchi sui supporti in legno presenti nella grotta, la luce solare raggiunge questa camera. Man mano che la luce riempie lo spazio, alcune chiazze di muschio iniziano a brillare e a cambiare verso un giallo dorato. Dopo 3–5 minuti di esposizione, i personaggi possono raccoglierne 0,5 chilogrammi.
 
-**Tesoro.** Uno _specchio_ dal valore di 5 mo giace parzialmente sepolto sotto la pila di carcasse dei rugginofaghi. Un giocatore che ispeziona la pila lo trova automaticamente, mentre superare una prova di Saggezza (Percezione) con CD 13 permette di notarne un riflesso sotto i resti senza avvicinarsi. Inoltre, un personaggio che supera una prova di Intelligenza (Natura) con CD 15 scopre diverse piante medicinali che crescono tra il muschio. Possono essere usate come ingredienti per preparare una _pozione di guarigione_.
+**Tesoro.** Uno _specchio_ dal valore di 5 mo giace parzialmente sepolto sotto la pila di carcasse dei rugginofaghi. Un personaggio che ispeziona la pila lo trova automaticamente, mentre superare una prova di Saggezza (Percezione) con CD 13 permette di notarne un riflesso sotto i resti senza avvicinarsi. Inoltre, un personaggio che supera una prova di Intelligenza (Natura) con CD 15 scopre diverse piante medicinali che crescono tra il muschio. Possono essere usate come ingredienti per preparare una _pozione di guarigione_.
 
 ### 7: Tana degli Ogre
 
@@ -190,26 +190,26 @@ I miconoidi sono inizialmente guardinghi e ostili nei confronti degli umanoidi. 
 Un ampio passaggio scende nelle profondità della montagna lungo un ripido sentiero di gradini rocciosi irregolari. Il tenue bagliore attorno al gruppo svanisce, e davanti attende soltanto l’oscurità.
 }}
 
-La camera a nord non è visibile dal crocevia; i giocatori devono prima scendere in un ripido canale per giungere nella tana degli ogre. Se entrano nella stanza, devono superare una prova di Destrezza (Furtività) con CD 10, altrimenti gli ogre addormentati si svegliano. La CD aumenta di 5 per ciascuna delle seguenti azioni (o simili) compiute in precedenza nella grotta: rompere la serratura del ripostiglio, combattere i miconoidi nella dispensa, bruciare le ragnatele o entrare nella stanza con una fonte di luce intensa.
+La camera a nord non è visibile dal crocevia; i personaggi devono prima scendere in un ripido canale per giungere nella tana degli ogre. Se entrano nella stanza, devono superare una prova di Destrezza (Furtività) con CD 10, altrimenti gli ogre addormentati si svegliano. La CD aumenta di 5 per ciascuna delle seguenti azioni (o simili) compiute in precedenza nella grotta: rompere la serratura del ripostiglio, combattere i miconoidi nella dispensa, bruciare le ragnatele o entrare nella stanza con una fonte di luce intensa.
 
 {{descriptive
 Una vasta camera quasi circolare si apre davanti a voi. Le pareti sono ricoperte di muschio stella, e sul lato destro si trova una limpida pozza d’acqua. In fondo alla sala è ammassata una piccola collezione di tesori. Due ogre dormono su rozzi giacigli.
 }}
 
-Gli ogre sono ostili verso gli intrusi, ma possono essere persuasi a lasciar passare i giocatori, condividere informazioni o restare neutrali se viene offerta loro abbastanza carne. Per convincerli è necessaria una prova di Carisma (Persuasione) con CD 20, ridotta di 1 per ogni creatura di taglia Media uccisa che i giocatori offrono come carne. Una prova riuscita li rende indifferenti e disposti a scambiare lo specchio in loro possesso con la carne. Gli ogre indifferenti rifiutano comunque la luce intensa e attaccheranno se minacciati o esposti a illuminazione brillante.
+Gli ogre sono ostili verso gli intrusi, ma possono essere persuasi a lasciar passare i personaggi, condividere informazioni o restare neutrali se viene offerta loro abbastanza carne. Per convincerli è necessaria una prova di Carisma (Persuasione) con CD 20, ridotta di 1 per ogni creatura di taglia Media uccisa che i personaggi offrono come carne. Una prova riuscita li rende indifferenti e disposti a scambiare lo specchio in loro possesso con la carne. Gli ogre indifferenti rifiutano comunque la luce intensa e attaccheranno se minacciati o esposti a illuminazione brillante.
 
 
 **Combattere gli ogre.** Berto è un **ogre** e Cambero è un **ogre ogrillon**. Sono affamati e attaccano il bersaglio più “appetitoso”. Una volta per combattimento, Berto può usare la sua Reazione per colpire il pavimento con la clava, facendo crollare alcune stalattiti al centro della stanza. Tutte le creature nel raggio di 3 metri devono superare un tiro salvezza su Destrezza con CD 15 o subire 1d6 danni perforanti e 1d6 danni contundenti, o la metà dei danni in caso di successo.
 
-Un giocatore può tentare di far crollare le stalattiti spendendo un’Azione e superando una prova di Forza con CD 15, purché le abbia notate.
+Un personaggio può tentare di far crollare le stalattiti spendendo un’Azione e superando una prova di Forza con CD 15, purché le abbia notate.
 
-**Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i giocatori riescono a illuminare la stanza con luce solare, il muschio inizia a brillare e diventa di un giallo dorato. Dopo 3–5 minuti di esposizione, possono raccoglierne 1 chilogrammo.
+**Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi riescono a illuminare la stanza con luce solare, il muschio inizia a brillare e diventa di un giallo dorato. Dopo 3–5 minuti di esposizione, possono raccoglierne 1 chilogrammo.
 
-**Tesori.** Gli ogre hanno accumulato una piccola pila di tesori. Una prova di Saggezza (Percezione) CD 15 (che richiede la vista) rivela uno _specchio_ del valore di 5 mo tra gli oggetti. Con un risultato di 20 o superiore, il giocatore nota anche due _lingotti d’argento_ da 25 mo ciascuno. I giocatori trovano automaticamente tutti i tesori se ispezionano la stanza con calma.
+**Tesori.** Gli ogre hanno accumulato una piccola pila di tesori. Una prova di Saggezza (Percezione) CD 15 (che richiede la vista) rivela uno _specchio_ del valore di 5 mo tra gli oggetti. Con un risultato di 20 o superiore, il personaggio nota anche due _lingotti d’argento_ da 25 mo ciascuno. I personaggi trovano automaticamente tutti i tesori se ispezionano la stanza con calma.
 
 ### 8: Nido dei Miconoidi
 
-Il sentiero che conduce alla stanza sud-ovest è bloccato da una densa parete di filamenti fungini, che si apre automaticamente in risposta alle spore dei miconoidi. Versare almeno una otre d’acqua sui filamenti li ammorbidisce, facendo ritrarre la parete. La massa fungina ha 15 punti ferita e CA 10 ed è vulnerabile ai danni da fuoco e radiosi. Ridurre la barriera a 0 punti ferita la distrugge e libera l’accesso alla stanza. Un miconoide collaborativo può aprire il varco ai giocatori.
+Il sentiero che conduce alla stanza sud-ovest è bloccato da una densa parete di filamenti fungini, che si apre automaticamente in risposta alle spore dei miconoidi. Versare almeno una otre d’acqua sui filamenti li ammorbidisce, facendo ritrarre la parete. La massa fungina ha 15 punti ferita e CA 10 ed è vulnerabile ai danni da fuoco e radiosi. Ridurre la barriera a 0 punti ferita la distrugge e libera l’accesso alla stanza. Un miconoide collaborativo può aprire il varco ai personaggi.
 
 {{descriptive
 Un odore di muffa aleggia nell’aria e un sottile velo di spore danza nella stanza. Due cadaveri di avventurieri giacciono a terra, circondando una colossale figura fungina le cui ife si estendono dal centro della camera fino alle pareti circostanti.
@@ -224,27 +224,27 @@ Questo è il luogo in cui i miconoidi risiedono quando non stanno preparando le 
 
 La parete ovest presenta diverse aperture che collegano la stanza alla colonia di rugginofaghi. Da qui, il sovrano rilascia spore calmanti che attirano le creature, che vengono uccise e macellate per gli ogre.
 
-La parete sud contiene alcune finestre che si affacciano verso l’esterno. All’interno sono sigillate da filamenti fungini, mentre le imposte di legno possono essere forzate con una prova di Forza con CD 14. All’esterno, le finestre sono sepolte sotto cumuli di detriti: una prova di Intelligenza (Indagare) o Saggezza (Percezione) CD 15 permette di individuarle, e liberarle richiede alcuni minuti di lavoro. Se i giocatori iniziano a forzare le imposte dall’esterno, il sovrano invia un appello telepatico affinché se ne vadano: i giocatori percepiscono il messaggio, ma non ne riconoscono la fonte a meno che non abbiano già incontrato il sovrano o osservato il suo comportamento altrove. Aprire le imposte espone la stanza alla luce solare, che brucia il miconide, impedito dalle sue ife a lasciare la camera.
+La parete sud contiene alcune finestre che si affacciano verso l’esterno. All’interno sono sigillate da filamenti fungini, mentre le imposte di legno possono essere forzate con una prova di Forza con CD 14. All’esterno, le finestre sono sepolte sotto cumuli di detriti: una prova di Intelligenza (Indagare) o Saggezza (Percezione) CD 15 permette di individuarle, e liberarle richiede alcuni minuti di lavoro. Se i personaggi iniziano a forzare le imposte dall’esterno, il sovrano invia un appello telepatico affinché se ne vadano: i personaggi percepiscono il messaggio, ma non ne riconoscono la fonte a meno che non abbiano già incontrato il sovrano o osservato il suo comportamento altrove. Aprire le imposte espone la stanza alla luce solare, che brucia il miconide, impedito dalle sue ife a lasciare la camera.
 
-Quando i giocatori entrano nella stanza, il sovrano comunica con loro. La sua attitudine è ostile se i giocatori hanno distrutto la barriera fungina, ucciso i miconoidi della dispensa, eliminato gli ogre o aperto le finestre; altrimenti resta neutrale. Il sovrano avverte i giocatori di lasciare la grotta in pace.
+Quando i personaggi entrano nella stanza, il sovrano comunica con loro. La sua attitudine è ostile se i personaggi hanno distrutto la barriera fungina, ucciso i miconoidi della dispensa, eliminato gli ogre o aperto le finestre; altrimenti resta neutrale. Il sovrano avverte i personaggi di lasciare la grotta in pace.
 
-**Combattere il sovrano.** Se i giocatori ignorano l’avvertimento, il **miconoide sovrano** richiama due **rugginofaghi** dai tunnel vicini e risveglia un **miconide servo delle spore** disteso al suo fianco, quindi attacca il gruppo. Una volta per combattimento, il sovrano può usare la sua Azione per far ricrescere una versione indebolita della barriera fungina sulla soglia: la parete si forma con 5 punti ferita e CA 10.
+**Combattere il sovrano.** Se i personaggi ignorano l’avvertimento, il **miconoide sovrano** richiama due **rugginofaghi** dai tunnel vicini e risveglia un **miconide servo delle spore** disteso al suo fianco, quindi attacca il gruppo. Una volta per combattimento, il sovrano può usare la sua Azione per far ricrescere una versione indebolita della barriera fungina sulla soglia: la parete si forma con 5 punti ferita e CA 10.
 
-**Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i giocatori aprono le finestre, la luce solare riempie la stanza e alcune chiazze di muschio iniziano a brillare e diventano di un giallo dorato. Dopo 3–5 minuti di esposizione, i giocatori possono raccoglierne 0,5 chilogrammi.
+**Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi aprono le finestre, la luce solare riempie la stanza e alcune chiazze di muschio iniziano a brillare e diventano di un giallo dorato. Dopo 3–5 minuti di esposizione, i personaggi possono raccoglierne 0,5 chilogrammi.
 
-**Tesoro.** Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 individua alcune piante medicinali che crescono tra il muschio; possono essere usate come ingredienti per preparare una _pozione di guarigione_. Inoltre, i giocatori possono raccogliere una piccola quantità di _spore comunicanti dei miconoidi_. Al contatto con le spore, si avverte un leggero formicolio nella mente. Una prova di Intelligenza (Natura) con CD 15 permette di identificarle come spore conservate che consentono a due creature di comunicare telepaticamente per un breve periodo.
+**Tesoro.** Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 individua alcune piante medicinali che crescono tra il muschio; possono essere usate come ingredienti per preparare una _pozione di guarigione_. Inoltre, i personaggi possono raccogliere una piccola quantità di _spore comunicanti dei miconoidi_. Al contatto con le spore, si avverte un leggero formicolio nella mente. Una prova di Intelligenza (Natura) con CD 15 permette di identificarle come spore conservate che consentono a due creature di comunicare telepaticamente per un breve periodo.
 
 \column
 
 ## Conclusione
 
-Una volta che i giocatori hanno raccolto il _muschio stella_ dalle camere illuminate, possono lasciare la Grotta Solbagliore in qualsiasi momento. Gli abitanti della grotta non li inseguono all’esterno.
+Una volta che i personaggi hanno raccolto il _muschio stella_ dalle camere illuminate, possono lasciare la Grotta Solbagliore in qualsiasi momento. Gli abitanti della grotta non li inseguono all’esterno.
 
 Consegnare il muschio al mandante conclude l’avventura. La quantità di muschio recuperata determina quante dosi di medicina potranno essere prodotte, o quante persone potranno essere aiutate, a seconda della premessa scelta dal GM.
 
 ### Conseguenze
 
-A seconda delle azioni dei giocatori, l’equilibrio della grotta può cambiare:
+A seconda delle azioni dei personaggi, l’equilibrio della grotta può cambiare:
 
 - Se gli ogre sopravvivono: pretendono tributi dagli insediamenti vicini o tentano di riprendere il controllo della grotta.
 - Se i miconoidi sopravvivono: richiudono lentamente i tunnel e ripristinano l’oscurità. Potrebbero diventare alleati strani e schivi o futuri ostacoli.
@@ -255,7 +255,7 @@ Il GM può estendere l’avventura introducendo una nuova minaccia attirata dall
 
 ### Ricompense
 
-Oltre a qualsiasi tesoro recuperato nella grotta, i giocatori possono ricevere ulteriori ricompense in base alle necessità del mandante o al tono della campagna.
+Oltre a qualsiasi tesoro recuperato nella grotta, i personaggi possono ricevere ulteriori ricompense in base alle necessità del mandante o al tono della campagna.
 
 ## Incantesimi e Oggetti
 
