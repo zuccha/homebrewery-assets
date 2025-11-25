@@ -32,9 +32,9 @@ _Star musk_ is a deep, dark green plant that turns golden yellow and begins to g
 The specific value and any additional properties of the musk are left to the GM, who may expand its uses or effects to suit their campaign.
 
 
-## The Cave's Ecosystem
+## The Cave
 
-The Sunbathed Cave owes its name from its south-facing entrance, which is exposed to the sun’s warmth for most of the day. Sunlight reflects off the crystalline walls, filling the corridors with a dim, warm glow.
+The Sunbathed Cave owes its name to its south-facing entrance, which is exposed to the sun’s warmth for most of the day. Sunlight reflects off the crystalline walls, filling the corridors with a dim, warm glow.
 
 The cave is also an ideal environment for _star musk_. The humidity and darkness of the deeper chambers allow the plant to thrive, covering the rocky walls.
 
@@ -46,23 +46,25 @@ More recently, the cave has become a dangerous place. A colony of rust monsters 
 
 Berto and Cambero are an ogre and an ogrillon, respectively. They killed or drove off the workers who once occupied the cave and settled in the deepest chamber. They dislike bright light and have sealed the windows and removed several of the mirrors that once reflected sunlight through the halls.
 
-The two mostly feed on rust monsters that the myconids hunt for them, in exchange the ogres fend off adventurers and ensure the cave remains dark.
+The two mostly feed on rust monsters that the myconids hunt for them, in exchange, the ogres fend off adventurers and ensure the cave remains dark.
 
 ### The Myconids
 
 A small group of myconids, four adults and their leader, has taken up residence in the cave. They occupy the southwest chamber, where the sovereign’s iron-rich spores have allowed them to domesticate several of the rust monsters. The myconids raise the insects like cattle, butchering them and offering the remains as tribute to the ogres.
 
-The myconids don't like light of any sorts and see the ogres as the guardians of the cave.
+The myconids don't like any sort of light and see the ogres as the guardians of the cave.
 
 ### Rust Monsters
 
 A colony of rust monsters thrives deep underground. When their tunnels broke into the Sunbathed Cave, the insects encountered the myconids. Several became conditioned by the sovereign’s spores and now behave like semi-tamed livestock, responding readily to its commands.
 
-## Running this Adventure
+## Running the Adventure
 
 This is a short, location-based adventure with a light puzzle element and several optional combats. The cave’s factions react logically to light, noise, and intrusion, but do not coordinate. Players can approach the rooms in any order, with sunlight-activation as the only required mechanic. Most encounters can be bypassed with smart play or negotiation.
 
-{{pageNumber 1}}
+**How to Use This Guide.** Text inside blue descriptive frames is meant to be read aloud to the players. Creature names in bold refer to stat blocks found in the _Monster Manual_. Items and spells in italics refer to entries in the _Player’s Handbook_ or are described in the “Spells and Items” section at the end of this document.
+
+{{pageNumber,auto}}
 
 
 \page
@@ -84,13 +86,15 @@ Players can use any of the methods mentioned above to expose the musk to sunligh
 
 **Resting.** The cave is dangerous but not patrolled. A short rest is generally safe in cleared rooms; a long rest may attract wandering rust monsters at the GM’s discretion.
 
+\column
+
 ### 1: Entrance
 
 {{descriptive
 A wide opening in the mountainside stands 5 meters across and 6 meters tall. Sunlight floods the entrance, its reflections on the crystalline walls casting a dim, warm glow into the three tunnels that branch away into darkness. The grassy ground outside quickly gives way to rough stone as the path descends into the mountain’s depths. A broken cart lies near the entrance, overgrown with vines, a silent reminder of the cave’s long-abandoned harvest operations.
 }}
 
-Footprints of varying age mark the ground near the entrance, showing regular movement to and from the cave. A character can make an Intelligence (Investigation) or Wisdom (Survival) check to determine their number and nature.
+Footprints of varying age mark the ground near the entrance, showing regular movement to and from the cave. The ogres leave the cave at night to hunt, while the myconids never venture outside. The only traces of their passage date back to when they first migrated into the cave. A character can make an Intelligence (Investigation) or Wisdom (Survival) check to determine their number and nature.
 
 ##### Footprint Information
 | Result | Footprints                             |
@@ -101,7 +105,7 @@ Footprints of varying age mark the ground near the entrance, showing regular mov
 | 20-24  | There are two sets of ogre tracks.     |
 | 25+    | Older myconid tracks are also present. |
 
-{{pageNumber 2}}
+{{pageNumber,auto}}
 
 
 \page
@@ -127,11 +131,11 @@ The tunnel is only 1.5 meters wide and 2.5 meters tall. Two giant wolf spiders h
 
 **Treasure.** Within the tunnel lies the body of a dead adventurer. The corpse carries 3 gp and a _spell scroll_ containing the _Sunlight_ spell. In a recess 4.5 meters from the north opening lies a _mirror_ worth 5 gp.
 
-**Spotting.** A character who succeeds on a DC 12 Wisdom (Perception) check notices one of the spiders. On a 15 or higher, the character spots both spiders, and on a 20 or higher, the character also notices the dead adventurer and the scroll in its hand.
+**Spotting.** A character who succeeds on a DC 12 Wisdom (Perception) check notices one of the spiders. On a 15 or higher, the character spots both spiders, and on a 20 or higher, the character also notices the dead adventurer and the scroll in their hand.
 
-**Traversing the Web.** Moving through the webs requires a DC 15 Strength (Athletics) check or Dexterity (Acrobatics) check, repeated for every turn of movement. On a failure, the character becomes Restrained and must succeed on a DC 12 Strength saving throw at the end of their turn to break free.
+**Traversing the Web.** Moving through the webs requires a DC 12 Strength (Athletics) or Dexterity (Acrobatics) check, repeated for every turn of movement. On a failure, the character becomes Restrained and must succeed on a DC 12 Strength saving throw at the end of their turn to break free.
 
-**Fighting the Spiders.** Any intrusion into the tunnel, or any action that damages the webs, causes the spiders to attack. A character who attempts to sneak through the passage must make a Dexterity (Stealth) check against the spiders’ Perception each time the character moves.
+**Fighting the Spiders.** Any intrusion into the tunnel, or any action that damages the webs, causes the spiders to attack. A character who attempts to sneak through the passage must make a Dexterity (Stealth) check against the spiders’ Wisdom (Perception) check each time the character moves.
 
 **Burning the Web.** The webs are highly flammable. If ignited, flames spread through the entire passage and burn for 1 minute. Any creature caught in the fire is subject to the Burning hazard. The spiders immediately use all their movement to flee. Once the flames die out, the webs are completely destroyed, and the dead adventurer’s spell scroll is reduced to ash.
 
@@ -151,6 +155,7 @@ To activate its medicinal properties, star musk must be exposed to sunlight for 
 * Southwest room: Windows carved into the southern wall allow direct sunlight inside. Remember to close the shutters afterward, because too much light prevents the musk from growing.
 }}
 
+If they inspect the desk area, the players can find the storage closet key under the table with a successful DC 15 Intelligence (Investigation) check. The key has a label attached.
 
 ### 5: Storage Closet Corridor
 
@@ -158,9 +163,9 @@ The corridor is initially blocked by a pile of fallen rocks, which can be notice
 
 The closet door is secured with a rusty lock, which can be opened with a successful DC 15 Dexterity (Sleight of Hand) check using thieves’ tools, or broken with an attack.
 
-The closet contains three _torches_ and one _spell scroll_ containing the _Sunlight_ spell. Two additional scrolls are present but too damaged to use. However, if _Mending_ is cast on them, the scrolls are restored to their original form. They are blank and can be used to scribe a cantrip or 1st-level spell, covering the usual scribing cost of 25 gp each.
+**Treasure.** The closet contains three _torches_ and one _spell scroll_ containing the _Sunlight_ spell. Two additional scrolls are present but too damaged to use. However, if _Mending_ is cast on them, the scrolls are restored to their original form. They are blank and can be used to scribe a cantrip or 1st-level spell, covering the usual scribing cost of 25 gp each.
 
-{{pageNumber 3}}
+{{pageNumber,auto}}
 
 
 \page
@@ -174,11 +179,11 @@ An open chamber with a high ceiling, its walls covered in thick growths of star 
 
 This chamber is where the myconids prepare their offerings for the ogres. Four **myconid adults** are focused on their work and pay little attention to the entrance. The players can choose to ambush them or attempt to establish communication.
 
-At first, the myconids are wary and hostile toward humanoid intruders. If the players enter the chamber carrying lit torches or any other source of illumination, the myconids attack immediately. Otherwise, the players can attempt to communicate with them, though the myconids refuse to tolerate any form of light. Exposure to torchlight or similar brightness makes them aggressive, while direct sunlight causes them to panic and flee, as it is lethal to them.
+At first, the myconids are wary and hostile toward humanoid intruders. If the players enter the chamber carrying lit torches or any other source of illumination, the myconids attack immediately. Otherwise, the players can attempt to communicate with them, though the myconids refuse to tolerate any form of light. Exposure to torchlight or similar brightness makes them aggressive, while direct sunlight causes them to panic and flee, as it is lethal to them. If spoken to, the myconids can reveal information about the cave and their relation with the ogres.
 
 **Star Musk.** The walls of the chamber are covered with _star musk_. If the players successfully place all the mirrors on their wooden brackets throughout the cave, sunlight reaches this chamber. As the light fills the space, patches of musk begin to glow and shift to a bright golden yellow. The players can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
 
-**Treasure.** A mirror lies partially buried beneath the pile of rust monster carcasses. Any player who inspects the pile finds it automatically. A player who succeeds on a DC 13 Wisdom (Perception) check can spot a glint of glass beneath the remains without approaching. Additionally, a character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_.
+**Treasure.** A _mirror_ worth 5 gp lies partially buried beneath the pile of rust monster carcasses. Any player who inspects the pile finds it automatically. A player who succeeds on a DC 13 Wisdom (Perception) check can spot a glint of glass beneath the remains without approaching. Additionally, a character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_.
 
 ### 7: Ogres' Lair
 
@@ -186,17 +191,17 @@ At first, the myconids are wary and hostile toward humanoid intruders. If the pl
 A large passage descends into the earth along a steep path of uneven rocky steps. The dim light around the party fades, and only darkness awaits ahead.
 }}
 
-The north chamber is not visible from the crossways. The players must first descend a steep tunnel to reach the ogres’ lair. If the players enter the chamber, they must succeed on a DC 10 Dexterity (Stealth) check or the sleeping ogres wake up. The DC increases by 5 for each of the following or similar actions the players may have performed: breaking the lock on the storage closet, fighting the myconids in the pantry, burning the spiderwebs, or entering with a bright light source.
+The north chamber is not visible from the crossways. The players must first descend a steep tunnel to reach the ogres’ lair. If the players enter the chamber, they must succeed on a DC 10 Dexterity (Stealth) check or the sleeping ogres wake up. The DC increases by 5 for each of the following or similar actions the players may have performed earlier in the cave: breaking the lock on the storage closet, fighting the myconids in the pantry, burning the spiderwebs, or entering the room with a bright light source.
 
 {{descriptive
 A vast, mostly round chamber opens before you. The walls are covered with star musk, and a clear pool of water rests along the right side. At the far end lies a mound of collected treasures. Two ogres sleep on makeshift beds.
 }}
 
-The ogres are hostile toward intruders but can be bribed with a sufficient amount of meat of any kind, provided the players are not carrying bright light and are able to speak with them.
+The ogres are hostile toward intruders, but can be bribed to let the players pass, share information, or remain neutral if offered enough meat. Convincing them requires a DC 20 Charisma (Persuasion) check, reduced by 1 for each dead Medium-sized creature the players offer as food. A successful check makes them indifferent and willing to trade the mirror in their possession for the meat. The ogres still refuse bright light and turn hostile if threatened or illuminated.
 
 **Fighting the Ogres.** Berto is an **ogre**, and Cambero is an **ogrillon ogre**. They are hungry and focus on the most appealing target. Once per fight, Berto can use his Reaction to slam his club against the floor, causing stalactites to fall in the center of the chamber. All creatures within a 3-meter radius must succeed on a DC 15 Dexterity saving throw or take 1d6 piercing damage and 1d6 bludgeoning damage, taking half on a success.
 
-A player can also try to collapse the stalactites by spending an Action and succeeding on a DC 17 Strength check, provided they notice the hazard.
+A player can also try to collapse the stalactites by spending an Action and succeeding on a DC 15 Strength check, provided they notice the hazard.
 
 **Star Musk.** The walls of the chamber are covered with _star musk_. If the players manage to illuminate the chamber with sunlight, patches of star musk begin to glow and turn a bright golden yellow. The players can harvest 1 kilogram of musk after 3-5 minutes of exposure.
 
@@ -204,13 +209,13 @@ A player can also try to collapse the stalactites by spending an Action and succ
 
 ### 8: Myconid's Nest
 
-The pathway to the southwest room is blocked by a dense wall of fungal filaments. The barrier opens automatically in response to myconid spores, but it can also be affected by environmental forces. Pouring at least a waterskin of water onto the filaments softens them, causing the wall to retract. The fungal mass has 15 hit points and AC 10, vulnerability to fire and radiant damage, and no resistance. Reducing it to 0 hit points destroys the barrier and clears the way into the nest. A persuaded or cooperative myconid can also open the gate safely for the players.
+The pathway to the southwest room is blocked by a dense wall of fungal filaments. The barrier opens automatically in response to myconid spores, but it can also be affected by environmental forces. Pouring at least a waterskin of water onto the filaments softens them, causing the wall to retract. The fungal mass has 15 hit points, AC 10, and is vulnerable to fire and radiant damage. Reducing it to 0 hit points destroys the barrier and clears the way into the nest. A persuaded or cooperative myconid can also open the gate safely for the players.
 
 {{descriptive
 A moldy smell hangs in the air, and a soft veil of spores drifts through the chamber. Two corpses of fallen adventurers lie scattered across the floor, surrounding a towering fungal figure whose hyphae extend from the center of the room to the surrounding walls.
 }}
 
-{{pageNumber 4}}
+{{pageNumber,auto}}
 
 
 \page
@@ -266,4 +271,4 @@ Soft spores produced by myconids to communicate. Two creatures can inhale the sp
 
 For the duration, sunlight spreads from a point within range and fills a 6-meters-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 6 meters.
 
-{{pageNumber 5}}
+{{pageNumber,auto}}
