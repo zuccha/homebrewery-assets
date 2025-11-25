@@ -1,6 +1,6 @@
-# La Grotta Solare
+# La Grotta Solbagliore
 
-Avventurieri! Esplorate la Grotta Solare, alla ricerca del raro e prezioso _muschio stella_. Questa breve avventura per D&D 5e (2024) è pensata per un gruppo di quattro o cinque personaggi di 2° livello. Dovrebbe durare non più di cinque ore e include alcuni incontri e piccoli enigmi.
+Avventurieri! Ecco la Grotta Solbagliore, venite alla ricerca del raro e prezioso _muschio stella_. Questa breve avventura per D&D 5e (2024) è pensata per un gruppo di quattro o cinque personaggi di 2° livello. Dovrebbe durare non più di cinque ore e include alcuni incontri e piccoli enigmi.
 
 ## Informazioni
 
@@ -15,14 +15,14 @@ Mappa creata con [Dungeon Scrawl](https://www.dungeonscrawl.com).
 
 ## Premessa
 
-Ai giocatori è stato richiesto di recuperare del _muschio stella_ dalle camere interne della Grotta Solare e di riportarne indietro quanto più possibile.
+Ai giocatori è stato richiesto di recuperare del _muschio stella_ dalle camere interne della Grotta Solbagliore e di riportarne indietro quanto più possibile.
 
 Dettagli come la posizione della grotta, lo scopo del muschio e l’urgenza della missione sono lasciati al GM che conduce questa mini-avventura.
 
 {{note
 ##### Esempio: Un Sonno Maledetto
 
-Alcuni abitanti di un villaggio nella foresta sono caduti in un profondo sonno, una maledizione da cui non possono essere risvegliati senza aiuto magico. L’anziano del villaggio incarica gli avventurieri di recuperare del _muschio stella_, l’ingrediente chiave dell’antidoto, dalla Grotta Solare, un tempo luogo di raccolta del muschio, ora reclamato dalla natura. La quantità di muschio che il gruppo riuscirà a ottenere determinerà quante pozioni l’alchimista locale potrà preparare e, di conseguenza, quanti abitanti potranno essere salvati dalla maledizione.
+Alcuni abitanti di un villaggio nella foresta sono caduti in un profondo sonno, una maledizione da cui non possono essere risvegliati senza aiuto magico. L’anziano del villaggio incarica gli avventurieri di recuperare del _muschio stella_, l’ingrediente chiave dell’antidoto, dalla Grotta Solbagliore, un tempo luogo di raccolta del muschio, ora reclamato dalla natura. La quantità di muschio che il gruppo riuscirà a ottenere determinerà quante pozioni l’alchimista locale potrà preparare e, di conseguenza, quanti abitanti potranno essere salvati dalla maledizione.
 }}
 
 ## Muschio Stella
@@ -33,7 +33,7 @@ Il valore del muschio, così come eventuali proprietà aggiuntive, è lasciato a
 
 ## La Grotta
 
-La Grotta Solare deve il suo nome all’ingresso rivolto a sud, che riceve la luce solare per gran parte della giornata. I riflessi sulle pareti cristalline riempiono i corridoi di un tenue bagliore caldo.
+La Grotta Solbagliore deve il suo nome all’ingresso rivolto a sud, che riceve la luce solare per gran parte della giornata. I riflessi sulle pareti cristalline riempiono i corridoi di un tenue bagliore caldo.
 
 La grotta è anche l'ambiente ideale per il _muschio stella_. L’umidità e l’oscurità delle camere più profonde permettono alla pianta di prosperare rigogliosa.
 
@@ -55,7 +55,7 @@ I miconoidi non tollerano alcuna forma di luce e considerano gli ogre i guardian
 
 ### Rugginofaghi
 
-Una colonia di rugginofaghi prospera nelle profondità sotterranee. Quando i loro tunnel sbucarono nella Grotta Solare, gli insetti incontrarono i miconoidi. Alcuni furono condizionati dalle spore del sovrano e ora si comportano come bestiame semi-addomesticato, rispondendo prontamente ai suoi comandi.
+Una colonia di rugginofaghi prospera nelle profondità sotterranee. Quando i loro tunnel sbucarono nella Grotta Solbagliore, gli insetti incontrarono i miconoidi. Alcuni furono condizionati dalle spore del sovrano e ora si comportano come bestiame semi-addomesticato, rispondendo prontamente ai suoi comandi.
 
 ## Gestire l’Avventura
 
@@ -238,7 +238,7 @@ Quando i giocatori entrano nella stanza, il sovrano comunica con loro. La sua at
 
 ## Conclusione
 
-Una volta che i giocatori hanno raccolto il _muschio stella_ dalle camere illuminate, possono lasciare la Grotta Solare in qualsiasi momento. Gli abitanti della grotta non li inseguono all’esterno.
+Una volta che i giocatori hanno raccolto il _muschio stella_ dalle camere illuminate, possono lasciare la Grotta Solbagliore in qualsiasi momento. Gli abitanti della grotta non li inseguono all’esterno.
 
 Consegnare il muschio al mandante conclude l’avventura. La quantità di muschio recuperata determina quante dosi di medicina potranno essere prodotte, o quante persone potranno essere aiutate, a seconda della premessa scelta dal GM.
 
