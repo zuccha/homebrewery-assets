@@ -116,9 +116,9 @@ Impronte di età diversa segnano il terreno vicino all’ingresso, indicando un 
 Un ampio tunnel diritto, alto 5 metri, si addentra a fondo nella grotta. La tenue luce proveniente dall’ingresso svanisce man mano che il passaggio scende. Vicino si trova un vicolo cieco, marcato solo da un odore acre e pungente.
 }}
 
-Questo tunnel è il percorso preferito dagli ogre, che si muovono comodamente grazie alla sua ampiezza. Berto spesso si ferma qui per urinare. Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 identifica l’odore come urina; con 20 o più lo riconosce specificamente come urina di ogre.
+Questo tunnel è il percorso preferito dagli ogre, che si muovono comodamente grazie alla sua ampiezza. Berto spesso si ferma qui per urinare. Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 riconosce l’odore come urina di ogre.
 
-Uno specchio coperto da un panno è appeso alla parete del vicolo cieco, a 3 metri da terra. Un personaggio che supera una prova di Saggezza (Percezione) con CD 13 lo nota. Con un 16 o più, nota anche un supporto di legno simile, ma privo di specchio, sulla parete di fronte al corridoio che conduce all’atrio.
+Uno specchio coperto da un panno è appeso alla parete del vicolo cieco, a 3 metri da terra. Un personaggio che supera una prova di Saggezza (Percezione) con CD 13 lo nota. Un supporto di legno vuoto sulla parete opposta può essere individuato esaminando brevemente l’area.
 
 ### 3: Tunnel Infestato dai Ragni
 
@@ -130,13 +130,15 @@ Il tunnel è largo solo 1,5 metri e alto 2,5 metri. Due ragni lupo giganti hanno
 
 **Tesoro.** All’interno del tunnel giace il corpo di un avventuriero morto. Il cadavere porta con sé 3 mo e una _pergamena magica_ contenente _Luce Solare_. In una nicchia a 4,5 metri dal varco nord si trova uno _specchio_ dal valore di 5 mo.
 
-**Individuazione.** Un personaggio che supera una prova di Saggezza (Percezione) con CD 12 nota uno dei ragni. Con un 15 o più, li individua entrambi; con un 20 o più, nota anche l’avventuriero morto e la pergamena stretta nella sua mano.
+**Individuazione.** Un personaggio che supera una prova di Saggezza (Percezione) con CD 12 nota uno dei ragni. Con un 15 o più individua entrambi i ragni e il cadavere intrappolato nella ragnatela. Con un 18 o più nota anche la pergamena nella mano del cadavere.
 
-**Attraversare le ragnatele.** Muoversi attraverso le ragnatele è complicato e richiede una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 12 per ogni turno di movimento. In caso di fallimento, il personaggio è trattenuto e deve superare un tiro salvezza su Forza con CD 12 alla fine del suo turno per liberarsi.
+**Attraversare le ragnatele.** Muoversi attraverso il passaggio richiede una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 12 per ogni turno di movimento. Con un fallimento, il personaggio resta intrappolato nelle ragnatele ed è trattenuto finché non supera una prova di Forza (Atletica) con CD 12.
 
-**Combattere i ragni.** Qualsiasi intrusione nel tunnel o azione che danneggi le ragnatele provoca l’attacco dei ragni. Un personaggio che tenta di attraversare il passaggio di nascosto deve effettuare una prova di Destrezza (Furtività) contrapposta a una prova di Saggezza (Percezione) dei ragni ogni volta che si muove.
+**Muoversi senza farsi notare.** Un personaggio che tenta di attraversare il passaggio senza attirare l’attenzione deve superare una singola prova di Destrezza (Furtività) contro la Saggezza (Percezione) passiva dei ragni. Un fallimento li allerta immediatamente.
 
-**Bruciare le ragnatele.** Le ragnatele sono altamente infiammabili. Se incendiate, le fiamme si propagano in tutto il passaggio e bruciano per 1 minuto. Una creatura che termina il suo turno all'interno del fuoco è in fiamme; i ragni usano tutto il loro movimento per fuggire. Quando il fuoco si spegne, tutte le ragnatele sono distrutte e la pergamena è ridotta in cenere.
+**Combattere i ragni.** Qualsiasi intrusione nel tunnel o azione che danneggi le ragnatele provoca l’attacco dei ragni.
+
+**Bruciare le ragnatele.** Se incendiate, le fiamme si propagano per tutto il tunnel e bruciano per 1 minuto. Una creatura che termina il turno nel fuoco prende fuoco; i ragni fuggono immediatamente. Quando il fuoco si spegne, tutte le ragnatele sono distrutte e la pergamena è ridotta in cenere.
 
 ### 4: Crocevia
 
@@ -154,7 +156,7 @@ Per attivare le sue proprietà medicinali, il muschio stella deve essere esposto
 * Stanza sud-ovest: Finestre scavate nella parete meridionale permettono alla luce diretta di entrare. Ricordarsi di chiudere le gelosie dopo l’uso, perché troppa luce impedisce al muschio di crescere.
 }}
 
-Ispezionando l’area del tavolo, i personaggi possono trovare la chiave del ripostiglio sotto il piano con una prova di Intelligenza (Investigare) con CD 15. La chiave ha un’etichetta attaccata.
+Ispezionando l’area del tavolo, un personaggio che supera una prova di Intelligenza (Investigare) con CD 15 trova la chiave del ripostiglio nascosta sotto il piano. La chiave ha un’etichetta che ne descrive la funzione.
 
 ### 5: Corridoio del Ripostiglio
 
@@ -182,7 +184,7 @@ I miconoidi sono inizialmente guardinghi e ostili nei confronti degli umanoidi. 
 
 **Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi collocano con successo tutti gli specchi sui supporti in legno presenti nella grotta, la luce solare raggiunge questa camera. Man mano che la luce riempie lo spazio, alcune chiazze di muschio iniziano a brillare e a cambiare verso un giallo dorato. Dopo 3–5 minuti di esposizione, i personaggi possono raccoglierne 0,5 chilogrammi.
 
-**Tesoro.** Uno _specchio_ dal valore di 5 mo giace parzialmente sepolto sotto la pila di carcasse dei rugginofaghi. Un personaggio che ispeziona la pila lo trova automaticamente, mentre superare una prova di Saggezza (Percezione) con CD 13 permette di notarne un riflesso sotto i resti senza avvicinarsi. Inoltre, un personaggio che supera una prova di Intelligenza (Natura) con CD 15 scopre diverse piante medicinali che crescono tra il muschio. Possono essere usate come ingredienti per preparare una _pozione di guarigione_.
+**Tesoro.** Uno _specchio_ dal valore di 5 mo giace parzialmente sepolto sotto la pila di carcasse dei rugginofaghi. Un personaggio che ispeziona la pila lo trova automaticamente, mentre superare una prova di Saggezza (Percezione) con CD 13 permette di notarne un riflesso sotto i resti senza avvicinarsi. Inoltre, un personaggio che supera una prova di Intelligenza (Natura) con CD 13 scopre diverse piante medicinali che crescono tra il muschio. Possono essere usate come ingredienti per preparare una _pozione di guarigione_.
 
 ### 7: Tana degli Ogre
 
@@ -199,7 +201,6 @@ Una vasta camera quasi circolare si apre davanti a voi. Le pareti sono ricoperte
 }}
 
 Gli ogre sono ostili verso gli intrusi, ma possono essere persuasi a lasciar passare i personaggi, condividere informazioni o restare neutrali se viene offerta loro abbastanza carne. Per convincerli è necessaria una prova di Carisma (Persuasione) con CD 20, ridotta di 1 per ogni creatura di taglia Media uccisa che i personaggi offrono come carne. Una prova riuscita li rende indifferenti e disposti a scambiare lo specchio in loro possesso con la carne. Gli ogre indifferenti rifiutano comunque la luce intensa e attaccheranno se minacciati o esposti a illuminazione brillante.
-
 
 **Combattere gli ogre.** Berto è un **ogre** e Cambero è un **ogre ogrillon**. Sono affamati e attaccano il bersaglio più “appetitoso”. Una volta per combattimento, Berto può usare la sua Reazione per colpire il pavimento con la clava, facendo crollare alcune stalattiti al centro della stanza. Tutte le creature nel raggio di 3 metri devono superare un tiro salvezza su Destrezza con CD 15 o subire 1d6 danni perforanti e 1d6 danni contundenti, o la metà dei danni in caso di successo.
 
@@ -225,7 +226,7 @@ Un odore di muffa aleggia nell’aria e un sottile velo di spore danza nella sta
 
 Questo è il luogo in cui i miconoidi risiedono quando non stanno preparando le offerte nella stanza nord-est. Il miconoide sovrano non lascia mai questa camera, e le sue ife si estendono in profondità nel terreno e attraverso la grotta, confinandolo qui. Tramite queste ife, il sovrano percepisce disturbi come movimenti, luce intensa o violenza altrove nella grotta, ma non può distinguerne i dettagli né comunicare a distanza.
 
-**La camera.** La parete ovest presenta diverse aperture che collegano la stanza alla colonia di rugginofaghi. Da qui, il sovrano rilascia spore calmanti che attirano le creature, che vengono uccise e macellate per gli ogre. La parete sud contiene alcune finestre che si affacciano verso l’esterno. All’interno sono sigillate da filamenti fungini, mentre le imposte di legno possono essere forzate con una prova di Forza con CD 14. All’esterno, le finestre sono sepolte sotto cumuli di detriti: una prova di Intelligenza (Indagare) o Saggezza (Percezione) con CD 15 permette di individuarle, e liberarle richiede alcuni minuti di lavoro. Aprire le imposte espone la stanza alla luce solare, che brucia il miconide, impedito dalle sue ife a lasciare la camera.
+**La camera.** La parete ovest presenta diverse aperture che collegano la stanza alla colonia di rugginofaghi. Da qui, il sovrano rilascia spore calmanti che attirano le creature, che vengono uccise e macellate per gli ogre. La parete sud contiene alcune finestre che si affacciano verso l’esterno. All’interno sono sigillate da filamenti fungini, mentre le imposte di legno possono essere forzate con una prova di Forza con CD 15. All’esterno, le finestre sono sepolte sotto cumuli di detriti: una prova di Intelligenza (Indagare) o Saggezza (Percezione) con CD 13 permette di individuarle, e liberarle richiede alcuni minuti di lavoro. Aprire le imposte espone la stanza alla luce solare, che brucia il miconide, impedito dalle sue ife a lasciare la camera.
 
 **Reazioni e interazioni.** Se i personaggi iniziano a forzare le imposte dall’esterno, il sovrano invia un appello telepatico affinché se ne vadano: i personaggi percepiscono il messaggio, ma non ne riconoscono la fonte a meno che non abbiano già incontrato il sovrano o osservato il suo comportamento altrove. Quando i personaggi entrano nella stanza, il sovrano comunica con loro. La sua attitudine è ostile se i personaggi hanno distrutto la barriera fungina, ucciso i miconoidi della dispensa, eliminato gli ogre o aperto le finestre; altrimenti resta neutrale. Il sovrano avverte i personaggi di lasciare la grotta in pace.
 
@@ -233,7 +234,7 @@ Questo è il luogo in cui i miconoidi risiedono quando non stanno preparando le 
 
 **Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi aprono le finestre, la luce solare riempie la stanza e alcune chiazze di muschio iniziano a brillare e diventano di un giallo dorato. Dopo 3–5 minuti di esposizione, i personaggi possono raccoglierne 0,5 chilogrammi.
 
-**Tesoro.** Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 individua alcune piante medicinali che crescono tra il muschio; possono essere usate come ingredienti per preparare una _pozione di guarigione_. Inoltre, i personaggi possono raccogliere una piccola quantità di _spore comunicanti dei miconoidi_. Al contatto con le spore, si avverte un leggero formicolio nella mente. Una prova di Intelligenza (Natura) con CD 15 permette di identificarle come spore conservate che consentono a due creature di comunicare telepaticamente per un breve periodo.
+**Tesoro.** Un personaggio che supera una prova di Intelligenza (Natura) con CD 13 individua alcune piante medicinali che crescono tra il muschio; possono essere usate come ingredienti per preparare una _pozione di guarigione_. Inoltre, i personaggi possono raccogliere una piccola quantità di _spore comunicanti dei miconoidi_. Al contatto con le spore, si avverte un leggero formicolio nella mente. Una prova di Intelligenza (Natura) con CD 15 permette di identificarle come spore conservate che consentono a due creature di comunicare telepaticamente per un breve periodo.
 
 \column
 

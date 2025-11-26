@@ -117,9 +117,9 @@ Footprints of varying age mark the ground near the entrance, showing regular mov
 A large, straight tunnel, 5 meters tall, leads deeper within the cave. The dim light from the entrance fades as the passage descends. Close by lies a dead end, marked only by a sharp, acrid smell.
 }}
 
-This tunnel is the route the ogres prefer, comfortably accommodating their size. Berto often stops to urinate here. A character who succeeds on a DC 15 Intelligence (Nature) check identifies the smell as urine; on a 20 or higher, the character recognizes it as ogre urine.
+This tunnel is the route the ogres prefer, comfortably accommodating their size. Berto often stops to urinate here. A character who succeeds on a DC 15 Intelligence (Nature) check identifies the smell as ogre urine.
 
-A cloth-covered mirror hangs on the wall of the cul-de-sac, 3 meters above the ground. A character who succeeds on a DC 13 Wisdom (Perception) check notices it. On a 16 or higher, the character also spots a similar, though mirrorless, wooden bracket on the wall facing the corridor back to the entrance.
+A cloth-covered mirror hangs on the wall of the cul-de-sac, 3 meters above the ground. A character who succeeds on a DC 13 Wisdom (Perception) check notices it. A similar, though mirrorless, wooden bracket on the wall facing the corridor back to the entrance can be spotted after a quick follow-up investigation.
 
 ### 3: Spider-Infested Tunnel
 
@@ -131,13 +131,16 @@ The tunnel is only 1.5 meters wide and 2.5 meters tall. Two giant wolf spiders h
 
 **Treasure.** Within the tunnel lies the body of a dead adventurer. The corpse carries 3 gp and a _spell scroll_ containing the _Sunlight_ spell. In a recess 4.5 meters from the north opening lies a _mirror_ worth 5 gp.
 
-**Spotting.** A character who succeeds on a DC 12 Wisdom (Perception) check notices one of the spiders. On a 15 or higher, the character spots both spiders, and on a 20 or higher, the character also notices the dead adventurer and the scroll in their hand.
+**Spotting.** A character who succeeds on a DC 12 Wisdom (Perception) check notices one of the spiders. On a 15 or higher, they spot both spiders and the dead adventurer caught in the webs. On an 18 or higher, they also notice the spell scroll clutched in the adventurer’s hand.
 
-**Traversing the Web.** Moving through the webs requires a DC 12 Strength (Athletics) or Dexterity (Acrobatics) check, repeated for every turn of movement. On a failure, the character becomes Restrained and must succeed on a DC 12 Strength saving throw at the end of their turn to break free.
+**Traversing the Web.** Moving through the webs requires a DC 12 Strength (Athletics) or Dexterity (Acrobatics) check each turn. On a failure, the character becomes Restrained and must succeed on a DC 12 Strength saving throw at the end of their turn to break free.
 
-**Fighting the Spiders.** Any intrusion into the tunnel, or any action that damages the webs, causes the spiders to attack. A character who attempts to sneak through the passage must make a Dexterity (Stealth) check against the spiders’ Wisdom (Perception) check each time the character moves.
+**Fighting the Spiders.** Any intrusion into the tunnel or damage dealt to the webs causes the spiders to attack. A character attempting to sneak through the passage must make a single Dexterity (Stealth) check opposed by the spiders’ passive Wisdom (Perception). A failure alerts the spiders immediately.
 
-**Burning the Web.** The webs are highly flammable. If ignited, flames spread through the entire passage and burn for 1 minute. Any creature caught in the fire is subject to the Burning hazard. The spiders immediately use all their movement to flee. Once the flames die out, the webs are completely destroyed, and the dead adventurer’s spell scroll is reduced to ash.
+**Burning the Web.** The webs are highly flammable. If ignited, flames spread through the entire passage and burn for 1 minute. Any creature caught in the fire is subject to the Burning hazard, and the spiders immediately flee using all their movement. When the flames die out, the webs are destroyed, and the adventurer’s spell scroll is reduced to ash.
+
+
+\column
 
 ### 4: Crossways
 
@@ -155,7 +158,7 @@ To activate its medicinal properties, star musk must be exposed to sunlight for 
 * Southwest room: Windows carved into the southern wall allow direct sunlight inside. Remember to close the shutters afterward, because too much light prevents the musk from growing.
 }}
 
-If they inspect the desk area, the characters can find the storage closet key under the table with a successful DC 15 Intelligence (Investigation) check. The key has a label attached.
+If the characters inspect the desk area, a successful DC 15 Intelligence (Investigation) check reveals the storage closet key hidden under the table. The key has a label attached.
 
 ### 5: Storage Closet Corridor
 
@@ -183,7 +186,7 @@ At first, the myconids are wary and hostile toward humanoid intruders. If the ch
 
 **Star Musk.** The walls of the chamber are covered with _star musk_. If the characters successfully place all the mirrors on their wooden brackets throughout the cave, sunlight reaches this chamber. As the light fills the space, patches of musk begin to glow and shift to a bright golden yellow. The characters can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
 
-**Treasure.** A _mirror_ worth 5 gp lies partially buried beneath the pile of rust monster carcasses. Any character who inspects the pile finds it automatically. A character who succeeds on a DC 13 Wisdom (Perception) check can spot a glint of glass beneath the remains without approaching. Additionally, a character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_.
+**Treasure.** A _mirror_ worth 5 gp lies partially buried beneath the pile of rust monster carcasses. Any character who inspects the pile finds it automatically. A character who succeeds on a DC 13 Wisdom (Perception) check can spot a glint of glass beneath the remains without approaching. Additionally, a character who succeeds on a DC 13 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_.
 
 ### 7: Ogres' Lair
 
@@ -225,7 +228,7 @@ A moldy smell hangs in the air, and a soft veil of spores drifts through the cha
 
 This is where the myconids reside when they are not preparing offerings in the northeast room. The myconid sovereign never leaves this chamber, and its filaments extend deep into the ground and through the cave, keeping it confined to this room. Through the hyphae, the sovereign senses disturbances such as movement, bright light, or violence elsewhere in the cave, but it cannot perceive details or communicate at a distance.
 
-**The Room.** The west wall features several openings that connect to the rust monsters’ colony. From here, the sovereign releases calming spores that lure rust monsters to be killed and butchered for the ogres. The south wall contains several windows that open to the outside. These windows are sealed on the inside by fungal filaments, and the wooden shutters can be forced open with a DC 14 Strength check. From the outside, the windows are buried under rubble; a DC 15 Intelligence (Investigation) or Wisdom (Perception) check reveals the blocked openings, and clearing the rubble takes a few minutes of work. Opening the shutters exposes the chamber to sunlight, which burns the myconid sovereign, and its filaments prevent it from leaving the room.
+**The Room.** The west wall features several openings that connect to the rust monsters’ colony. From here, the sovereign releases calming spores that lure rust monsters to be killed and butchered for the ogres. The south wall contains several windows that open to the outside. These windows are sealed on the inside by fungal filaments, and the wooden shutters can be forced open with a DC 15 Strength check. From the outside, the windows are buried under rubble; a DC 13 Intelligence (Investigation) or Wisdom (Perception) check reveals the blocked openings, and clearing the rubble takes a few minutes of work. Opening the shutters exposes the chamber to sunlight, which burns the myconid sovereign, and its filaments prevent it from leaving the room.
 
 **Reactions and Interactions.** If the characters begin applying force to the shutters from the outside, the sovereign sends a telepathic plea urging them to leave. The characters experience the mental message, but they do not know its source unless they have already met the sovereign or observed its behavior in another room. When the characters enter the room, the sovereign communicates with them. Its attitude is hostile if the characters tore down the fungal barrier, killed the working myconids, slew the ogres, or opened the windows, and neutral otherwise. The sovereign warns the characters to leave the cave in peace.
 
@@ -233,7 +236,7 @@ This is where the myconids reside when they are not preparing offerings in the n
 
 **Star Musk.** The walls of the chamber are covered with _star musk_. If the characters open the shutters, sunlight fills the space and patches of musk begin to glow and shift to a bright golden yellow. The characters can harvest 0.5 kilograms of musk after 3-5 minutes of exposure.
 
-**Treasure.** A character who succeeds on a DC 15 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_. In addition, the characters can collect a small amount of _myconid rapport spores_. When a character touches the spores, they feel a brief tingling at the edge of their thoughts. A character who succeeds on a DC 15 Intelligence (Nature) check identifies the residue as preserved rapport spores, enough to allow two creatures to briefly communicate telepathically.
+**Treasure.** A character who succeeds on a DC 13 Intelligence (Nature) check discovers several medicinal plants growing among the musk. These plants can be used as ingredients for brewing a _potion of healing_. In addition, the characters can collect a small amount of _myconid rapport spores_. When a character touches the spores, they feel a brief tingling at the edge of their thoughts. A character who succeeds on a DC 15 Intelligence (Nature) check identifies the residue as preserved rapport spores, enough to allow two creatures to briefly communicate telepathically.
 
 ## Ending the Adventure
 
