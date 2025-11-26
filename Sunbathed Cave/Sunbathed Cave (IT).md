@@ -184,7 +184,7 @@ I miconoidi sono inizialmente guardinghi e ostili nei confronti degli umanoidi. 
 
 **Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi collocano con successo tutti gli specchi sui supporti in legno presenti nella grotta, la luce solare raggiunge questa camera. Man mano che la luce riempie lo spazio, alcune chiazze di muschio iniziano a brillare e a cambiare verso un giallo dorato. Dopo 3–5 minuti di esposizione, i personaggi possono raccoglierne 0,5 chilogrammi.
 
-**Tesoro.** Uno _specchio_ dal valore di 5 mo giace parzialmente sepolto sotto la pila di carcasse dei rugginofaghi. Un personaggio che ispeziona la pila lo trova automaticamente, mentre superare una prova di Saggezza (Percezione) con CD 13 permette di notarne un riflesso sotto i resti senza avvicinarsi. Inoltre, un personaggio che supera una prova di Intelligenza (Natura) con CD 13 scopre diverse piante medicinali che crescono tra il muschio. Possono essere usate come ingredienti per preparare una _pozione di guarigione_.
+**Tesoro.** Uno _specchio_ dal valore di 5 mo giace parzialmente sepolto sotto la pila di carcasse dei rugginofaghi. Un personaggio che ispeziona la pila lo trova automaticamente, mentre una prova di Saggezza (Percezione) con CD 13 permette di notarne un riflesso senza avvicinarsi. Un personaggio che supera una prova di Intelligenza (Natura) con CD 15 scopre inoltre alcune piante medicinali utili per preparare una _pozione di guarigione_. Tra gli utensili dei miconoidi ci sono piccoli oggetti di pietra per un valore totale di 4 mo.
 
 ### 7: Tana degli Ogre
 
@@ -208,7 +208,7 @@ Un personaggio può tentare di far crollare le stalattiti spendendo un’Azione 
 
 **Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi riescono a illuminare la stanza con luce solare, il muschio inizia a brillare e diventa di un giallo dorato. Dopo 3–5 minuti di esposizione, possono raccoglierne 1 chilogrammo.
 
-**Tesori.** Gli ogre hanno accumulato una piccola pila di tesori. Una prova di Saggezza (Percezione) CD 15 (che richiede la vista) rivela uno _specchio_ del valore di 5 mo tra gli oggetti. Con un risultato di 20 o superiore, il personaggio nota anche due _lingotti d’argento_ da 25 mo ciascuno. I personaggi trovano automaticamente tutti i tesori se ispezionano la stanza con calma.
+**Tesoro.** Gli ogre hanno accumulato una piccola pila di oggetti. Una prova di Saggezza (Percezione) con CD 15 rivela uno _specchio_ del valore di 5 mo e un _lingotto d’argento_ dal valore di 25 mo. Esaminando la stanza con calma, i personaggi trovano automaticamente anche alcune monete sparse tra i resti del bottino (5 mo) e delle ossa intagliate dal valore di 3 mo.
 
 ### 8: Nido dei Miconoidi
 
@@ -234,7 +234,7 @@ Questo è il luogo in cui i miconoidi risiedono quando non stanno preparando le 
 
 **Muschio stella.** Le pareti della camera sono ricoperte di _muschio stella_. Se i personaggi aprono le finestre, la luce solare riempie la stanza e alcune chiazze di muschio iniziano a brillare e diventano di un giallo dorato. Dopo 3–5 minuti di esposizione, i personaggi possono raccoglierne 0,5 chilogrammi.
 
-**Tesoro.** Un personaggio che supera una prova di Intelligenza (Natura) con CD 13 individua alcune piante medicinali che crescono tra il muschio; possono essere usate come ingredienti per preparare una _pozione di guarigione_. Inoltre, i personaggi possono raccogliere una piccola quantità di _spore comunicanti dei miconoidi_. Al contatto con le spore, si avverte un leggero formicolio nella mente. Una prova di Intelligenza (Natura) con CD 15 permette di identificarle come spore conservate che consentono a due creature di comunicare telepaticamente per un breve periodo.
+**Tesoro.** Un personaggio che supera una prova di Intelligenza (Natura) con CD 13 individua alcune piante medicinali che crescono tra il muschio; possono essere usate come ingredienti per preparare una _pozione di guarigione_. Inoltre, i personaggi possono raccogliere una piccola quantità di _spore comunicanti dei miconoidi_. Al contatto con le spore, si avverte un leggero formicolio nella mente. Una prova di Intelligenza (Natura) con CD 15 permette di identificarle come spore conservate che consentono a due creature di comunicare telepaticamente per un breve periodo. Le spore sono contenute in un piccolo recipiente di cristallo naturale dal valore di 10 mo.
 
 \column
 
