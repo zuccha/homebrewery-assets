@@ -158,7 +158,7 @@ Ispezionando l’area del tavolo, i personaggi possono trovare la chiave del rip
 
 ### 5: Corridoio del Ripostiglio
 
-Il corridoio è bloccato da un cumulo di rocce crollate, individuabile con una prova di Saggezza (Percezione) con CD 10. Liberare l’ostruzione richiede circa 5 minuti e rivela il passaggio verso il ripostiglio.
+Il corridoio è bloccato da un cumulo di rocce crollate. Un personaggio nota l’ostruzione con una prova di Saggezza (Percezione) con CD 10. Liberarla richiede circa 5 minuti e rivela il passaggio verso il ripostiglio.
 
 La porta del ripostiglio è chiusa da una serratura arrugginita, che può essere aperta con una prova di Destrezza (Rapidità di Mano) con CD 15 usando arnesi da scasso, oppure sfondata con un attacco.
 
@@ -190,7 +190,9 @@ I miconoidi sono inizialmente guardinghi e ostili nei confronti degli umanoidi. 
 Un ampio passaggio scende nelle profondità della montagna lungo un ripido sentiero di gradini rocciosi irregolari. Il tenue bagliore attorno al gruppo svanisce, e davanti attende soltanto l’oscurità.
 }}
 
-La camera a nord non è visibile dal crocevia; i personaggi devono prima scendere in un ripido canale per giungere nella tana degli ogre. Se entrano nella stanza, devono superare una prova di Destrezza (Furtività) con CD 10, altrimenti gli ogre addormentati si svegliano. La CD aumenta di 5 per ciascuna delle seguenti azioni (o simili) compiute in precedenza nella grotta: rompere la serratura del ripostiglio, combattere i miconoidi nella dispensa, bruciare le ragnatele o entrare nella stanza con una fonte di luce intensa.
+La camera a nord non è visibile dal crocevia; i personaggi devono prima scendere in un ripido canale per giungere nella tana degli ogre. Se entrano nella stanza, devono superare una prova di Destrezza (Furtività) con CD 10, oppure gli ogre addormentati si svegliano.
+
+**Allerta.** La CD aumenta di 5 per ciascuna delle seguenti azioni (o simili) compiute in precedenza nella grotta: rompere la serratura del ripostiglio, combattere i miconoidi nella dispensa, bruciare le ragnatele o entrare nella stanza con una fonte di luce intensa.
 
 {{descriptive
 Una vasta camera quasi circolare si apre davanti a voi. Le pareti sono ricoperte di muschio stella, e sul lato destro si trova una limpida pozza d’acqua. In fondo alla sala è ammassata una piccola collezione di tesori. Due ogre dormono su rozzi giacigli.
@@ -220,13 +222,12 @@ Un odore di muffa aleggia nell’aria e un sottile velo di spore danza nella sta
 
 \page
 
+
 Questo è il luogo in cui i miconoidi risiedono quando non stanno preparando le offerte nella stanza nord-est. Il miconoide sovrano non lascia mai questa camera, e le sue ife si estendono in profondità nel terreno e attraverso la grotta, confinandolo qui. Tramite queste ife, il sovrano percepisce disturbi come movimenti, luce intensa o violenza altrove nella grotta, ma non può distinguerne i dettagli né comunicare a distanza.
 
-La parete ovest presenta diverse aperture che collegano la stanza alla colonia di rugginofaghi. Da qui, il sovrano rilascia spore calmanti che attirano le creature, che vengono uccise e macellate per gli ogre.
+**La camera.** La parete ovest presenta diverse aperture che collegano la stanza alla colonia di rugginofaghi. Da qui, il sovrano rilascia spore calmanti che attirano le creature, che vengono uccise e macellate per gli ogre. La parete sud contiene alcune finestre che si affacciano verso l’esterno. All’interno sono sigillate da filamenti fungini, mentre le imposte di legno possono essere forzate con una prova di Forza con CD 14. All’esterno, le finestre sono sepolte sotto cumuli di detriti: una prova di Intelligenza (Indagare) o Saggezza (Percezione) con CD 15 permette di individuarle, e liberarle richiede alcuni minuti di lavoro. Aprire le imposte espone la stanza alla luce solare, che brucia il miconide, impedito dalle sue ife a lasciare la camera.
 
-La parete sud contiene alcune finestre che si affacciano verso l’esterno. All’interno sono sigillate da filamenti fungini, mentre le imposte di legno possono essere forzate con una prova di Forza con CD 14. All’esterno, le finestre sono sepolte sotto cumuli di detriti: una prova di Intelligenza (Indagare) o Saggezza (Percezione) CD 15 permette di individuarle, e liberarle richiede alcuni minuti di lavoro. Se i personaggi iniziano a forzare le imposte dall’esterno, il sovrano invia un appello telepatico affinché se ne vadano: i personaggi percepiscono il messaggio, ma non ne riconoscono la fonte a meno che non abbiano già incontrato il sovrano o osservato il suo comportamento altrove. Aprire le imposte espone la stanza alla luce solare, che brucia il miconide, impedito dalle sue ife a lasciare la camera.
-
-Quando i personaggi entrano nella stanza, il sovrano comunica con loro. La sua attitudine è ostile se i personaggi hanno distrutto la barriera fungina, ucciso i miconoidi della dispensa, eliminato gli ogre o aperto le finestre; altrimenti resta neutrale. Il sovrano avverte i personaggi di lasciare la grotta in pace.
+**Reazioni e interazioni.** Se i personaggi iniziano a forzare le imposte dall’esterno, il sovrano invia un appello telepatico affinché se ne vadano: i personaggi percepiscono il messaggio, ma non ne riconoscono la fonte a meno che non abbiano già incontrato il sovrano o osservato il suo comportamento altrove. Quando i personaggi entrano nella stanza, il sovrano comunica con loro. La sua attitudine è ostile se i personaggi hanno distrutto la barriera fungina, ucciso i miconoidi della dispensa, eliminato gli ogre o aperto le finestre; altrimenti resta neutrale. Il sovrano avverte i personaggi di lasciare la grotta in pace.
 
 **Combattere il sovrano.** Se i personaggi ignorano l’avvertimento, il **miconoide sovrano** richiama due **rugginofaghi** dai tunnel vicini e risveglia un **miconide servo delle spore** disteso al suo fianco, quindi attacca il gruppo. Una volta per combattimento, il sovrano può usare la sua Azione per far ricrescere una versione indebolita della barriera fungina sulla soglia: la parete si forma con 5 punti ferita e CA 10.
 
