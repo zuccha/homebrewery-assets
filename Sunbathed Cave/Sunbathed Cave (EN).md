@@ -275,3 +275,64 @@ Soft spores produced by myconids to communicate. Two creatures can inhale the sp
 For the duration, sunlight spreads from a point within range and fills a 6-meters-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 6 meters.
 
 {{pageNumber,auto}}
+
+
+\page
+
+
+## One-Shot
+
+This optional mode allows Sunbathed Cave to be played as a self-contained 3-hour one-shot, suitable for a group of beginners. All necessary changes are described in this section; the rest of the adventure remains unchanged.
+
+### Premise
+
+Several inhabitants of the village of Fiorvalle have fallen ill with a severe ailment. To cure them, a remedy made from star moss must be prepared. This plant grows only in the Sunbathed Cave, at the foothills of the mountains north of the village. The village elder begs the characters to retrieve at least 1 kg of it.
+
+### The Light Puzzle
+
+In the shortened version of the adventure, star moss grows only in the ogres’ lair (area 7), and the main objective is to restore the original system that directed sunlight into this chamber.
+
+Originally, a sequence of mirrors guided light from the cave entrance to the ogres’ lair, where a crystal in the center of the room dispersed it across the walls. Over time, the system deteriorated:
+
+- The mirror at the cave entrance was dismantled and is now used as a tray by the myconids in the pantry (area 6).
+- A backup mirror is stored in the spider tunnel (area 3), along with several broken ones.
+- The radial crystal that once dispersed light in all directions has been destroyed. A replacement can be retrieved from the myconid nest (area 8), where several naturally grow.
+- By succeeding on a DC 15 Dexterity (Sleight of Hand) check in combination with the *Mending* spell, the shattered radial crystal in the ogres’ lair can be reconstructed.
+
+To complete the puzzle, the characters must retrieve one mirror (from area 3 or area 6) and one radial crystal (from area 8). Once brought back to the ogres’ lair, the mirror can be reinstalled near the cave entrance, while the crystal must be placed at the center of the chamber. Sunlight then reaches the star moss once more, activating it instantly. Once activated, the star moss can be harvested to complete the mission.
+
+### Enemies
+
+The adventure is streamlined by removing the ogrillon and all references to it. The spore servant accompanying the myconid sovereign does not take part in the encounter, and one rust monster may be removed if necessary. The adult myconids in the pantry (area 6) are reduced from four to three.
+
+### Obstacles
+
+To reduce playtime, the debris blocking access to the storage room (area 5) and the fungal barrier obstructing the myconid nest (area 8) are removed.
+
+### Treasures
+
+Some treasures make little sense in the context of a one-shot and should therefore be removed or replaced.
+
+The damaged, repairable scrolls found in the storage room are removed, as they would have no immediate use.
+
+Herbs that, in the full version of the adventure, are used to brew potions may instead be treated as medicinal herbs that can be consumed directly, functioning as _potions of healing_.
+
+Any references to a mirror stored in the ogres’ lair do not apply in the one-shot version and should be ignored.
+
+Magic scrolls containing the _Sunlight_ spell are replaced, since they would make the irradiation puzzle trivial. The scroll found in the storage room becomes a scroll of _Cure Wounds_, while the one clutched in the adventurer’s hand in the spider tunnel becomes a scroll of _Inflict Wounds_ or _Eldritch Blast_, depending on the party’s composition.
+
+Other monetary treasures may remain, even though they serve only decorative purposes in the one-shot.
+
+Replace the original note found at the crossroads (area 4) with the following reference to the mirror system:
+
+{{descriptive
+##### Irradiation System Instructions
+To trigger its medicinal properties, star moss must be exposed to direct sunlight. The cave uses a reflection system that channels light from the entrance to the northern chamber, where the plant grows in sufficient quantity for harvesting. The system is composed of the following elements:
+
+- Reflective Mirrors. A series of mirrors directs natural light from the cave entrance toward the northern chamber through the main passages of the cave. A few backup mirrors are stored in the service tunnels.
+
+- Radial Crystal. Installed at the center of the northern chamber, it disperses the collected light in all directions, ensuring even illumination of the walls covered in star moss. These crystals are fragile; substitute specimens may be found in the southwestern chamber.
+}}
+
+
+{{pageNumber,auto}}

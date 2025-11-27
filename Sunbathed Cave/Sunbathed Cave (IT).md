@@ -277,3 +277,63 @@ Sottili spore prodotte dai miconoidi per comunicare. Due creature possono consum
 Per la durata dell'incantesimo, un fascio di luce solare si sprigiona da un punto entro gittata e riempie una sfera del raggio di 6 metri. L'area della luce solare emette luce intensa e poi luce fioca per ulteriori 6 metri.
 
 {{pageNumber,auto}}
+
+
+\page
+
+
+## One-Shot
+
+Questa modalità opzionale permette di giocare la Grotta Solbagliore come una sessione autoconclusiva di circa 3 ore, adatta a un gruppo di principianti. Tutte le modifiche necessarie sono descritte in questa sezione; il resto dell’avventura rimane invariato.
+
+### Premessa
+
+Alcuni abitanti del villaggio di Fiorvalle sono stati colpiti da un grave malanno. Per curarli è necessario preparare un rimedio a base di muschio stella, che cresce unicamente nella Grotta Solbagliore, alle pendici delle montagne a nord del villaggio. Il decano del villaggio supplica i personaggi di recuperarne almeno 1 kg.
+
+### Il puzzle della luce
+
+Nella versione breve dell’avventura, il muschio stella cresce solo nella tana degli ogre (area 7), e l’obiettivo principale consiste nel riattivare il sistema originario che convogliava la luce solare al suo interno.
+
+Originariamente, un insieme di specchi guidava la luce dall’ingresso della grotta fino alla tana degli ogre, dove un cristallo al centro della camera la diffondeva sulle pareti. Nel tempo, il sistema si è deteriorato:
+
+- Lo specchio all'ingresso della grotta è stato smontato e ora viene utilizzato come vassoio dai miconidi nella dispensa (area 6).
+- Uno specchio di riserva si trova nel cunicolo dei ragni (area 3), accompagnato da altri specchi rotti.
+- Il cristallo radiale che diffondeva la luce a 360° è stato distrutto. Un sostituto può essere recuperato nel nido dei miconoidi (area 8), dove ne crescono naturalmente diversi esemplari.
+- Superando una prova di Destrezza (Rapidità di Mano) con CD 15 in combinazione con l'incantesimo _Riparare_, è possibile ricostruire il cristallo radiale frantumato nella tana degli orchi.
+
+Per completare il puzzle, i personaggi devono recuperare uno specchio (dalle aree 3 o 6) e un cristallo radiale (da area 8). Lo specchio può essere reinstallato accanto all’ingresso della grotta, mentre il cristallo va collocato al centro della camera nord. La luce solare raggiunge così nuovamente il muschio stella, che si attiva istantaneamente. Una volta attivato, il muschio può essere raccolto per portare a termine la missione.
+
+### Nemici
+
+L’avventura viene snellita eliminando l’ogrillon e ogni riferimento a esso. Il servitore delle spore del miconide sovrano non partecipa allo scontro finale, e uno dei rugginofaghi può essere rimosso se necessario. I miconidi adulti presenti nella dispensa (area 6) vengono ridotti da quattro a tre.
+
+### Ostacoli
+
+Per ridurre il tempo di gioco, le macerie che bloccano il ripostiglio (area 5) e la barriera fungina che ostruisce l’accesso al nido dei miconidi (area 8) vengono eliminate.
+
+### Tesori
+
+Alcuni tesori non hanno senso nel contesto della one-shot, pertanto vanno rimossi o sostituiti.
+
+Le pergamene danneggiate e riparabili  presenti nel ripostiglio vengono rimosse, poiché non avrebbero utilità immediata.
+
+Le erbe utilizzate nella versione completa dell’avventura per preparare pozioni possono essere trattate come erbe medicinali direttamente ingeribili, equivalenti a _pozioni di guarigione_.
+
+Riferimenti a uno specchio nella tana degli ogre non sono applicabili nella versione one-shot e vanno ignorati.
+
+Le pergamene magiche contenenti l'incantesimo _Luce Solare_ vengono sostituite, poiché renderebbero superfluo l’enigma dell’irradiazione. La pergamena che si trova nel ripostiglio diventa una pergamena di _Cura Ferite_, mentre quella stretta nella mano dell'avventuriero nel tunnel dei ragni diventa una pergamena di _Infliggi Ferite_ o _Dardo Stregato_, a dipendenza della formazione del gruppo.
+
+Altri tesori monetari possono rimanere, sebbene abbiano funzione puramente decorativa nella one-shot.
+
+Sostituire la nota originale presente nel crocevia (area 4) con un riferimento al sistema di specchi. La nuova nota è come segue:
+
+{{descriptive
+##### Istruzioni per il sistema di irradiazione
+Per attivare le sue proprietà medicinali, il muschio stella deve essere esposto alla luce solare diretta. La grotta utilizza un sistema di riflessione che convoglia la luce dall’ingresso fino alla camera nord, dove la pianta cresce in quantità sufficiente per la raccolta. Il sistema è composto dai seguenti elementi:
+
+- Specchi riflettenti. Una serie di specchi canalizza la luce naturale dall’ingresso verso la camera nord, attraverso i passaggi principali della grotta. Alcuni specchi di riserva sono immagazzinati nei tunnel di servizio.
+
+- Cristallo radiale. Installato al centro della camera nord, diffonde la luce ricevuta in tutte le direzioni, irradiando uniforme delle pareti ricoperte di muschio stella. I cristalli tendono a rompersi facilmente; ulteriori esemplari si possono reperire nella camera sud-ovest.
+}}
+
+{{pageNumber,auto}}
